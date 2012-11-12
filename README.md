@@ -5,3 +5,5 @@ CS490 Final Project
 
 
 Movie Recommendation Software Using K-Medoids Algorithm and Question-based Refining
+
+Java Server for Android Application
