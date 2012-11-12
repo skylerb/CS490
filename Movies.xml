@@ -1,0 +1,1553 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<movies>
+	<movie>
+		<title>12 Angry Men</title>
+		<year>1957</year>
+		<mpaa>PG</mpaa>
+		<genre>Drama</genre>
+		<director>Sidney Lumet</director>
+		<actor>Henry Fonda</actor>
+		<actor>Lee J. Cobb</actor>
+		<actor>Martin Balsam</actor>
+		<actor>John Fiedler</actor>
+		<keyword>Jury</keyword>
+		<keyword>Murder</keyword>
+		<keyword>Trial</keyword>
+		<keyword>Jury Room</keyword>
+		<keyword>Takes Place In One Day</keyword>
+		<coverart>images/12angrymen.png</coverart>
+	</movie>
+	<movie>
+		<title>Alien</title>
+		<year>1979</year>
+		<mpaa>TV-14</mpaa>
+		<genre>Horror</genre>
+		<genre>Sci-Fi</genre>
+		<director>Ridley Scott</director>
+		<actor>Tom Skerritt</actor>
+		<actor>Sigourney Weaver</actor>
+		<actor>Veronica Cartwright</actor>
+		<actor>Harry Dean Stanton</actor>
+		<actor>John Hurt</actor>
+		<actor>Ian Holm</actor>
+		<actor>Yaphet Kotto</actor>
+		<keyword>Spaceship</keyword>
+		<keyword>Egg</keyword>
+		<keyword>Warning</keyword>
+		<keyword>Alien</keyword>
+		<keyword>Parasite</keyword>
+		<coverart>images/alien.png</coverart>
+	</movie>
+	<movie>
+		<title>American Psycho</title>
+		<year>2000</year>
+		<mpaa>NC-17</mpaa>
+		<genre>Crime</genre>
+		<genre>Drama</genre>
+		<director>Mary Harron</director>
+		<actor>Christian Bale</actor>
+		<actor>Justin Theroux</actor>
+		<actor>Josh Lucas</actor>
+		<actor>Bill Sage</actor>
+		<keyword>Materialism</keyword>
+		<keyword>Violence</keyword>
+		<keyword>Fear</keyword>
+		<keyword>Fellatio</keyword>
+		<keyword>Closeted Homosexual</keyword>
+		<coverart>images/americanpyscho.png</coverart>
+	</movie>
+	<movie>
+		<title>Argo</title>
+		<year>2012</year>
+		<mpaa>R</mpaa>
+		<genre>Drama</genre>
+		<genre>History</genre>
+		<genre>Thriller</genre>
+		<director>Ben Affleck</director>
+		<actor>Ben Afflec</actor>
+		<actor>Bryan Cranston</actor>
+		<actor>John Goodman</actor>
+		<actor>Alan Arkin</actor>
+		<keyword>Canadian</keyword>
+		<keyword>CIA</keyword>
+		<keyword>Hostage</keyword>
+		<keyword>White House</keyword>
+		<keyword>Ambassador</keyword>
+		<coverart>images/argo.png</coverart>
+	</movie>
+	<movie>
+		<title>Dazed and Confused</title>
+		<year>1993</year>
+		<mpaa>R</mpaa>
+		<genre>Comedy</genre>
+		<genre>Drama</genre>
+		<director>Richard Linklater</director>
+		<actor>Jason London</actor>
+		<actor>Rory Cochrane</actor>
+		<actor>Wiley Wiggin</actor>
+		<actor>Sasha Jenson</actor>
+		<actor>Michelle Burke</actor>
+		<actor>Adam Goldberg</actor>
+		<actor>Milla Jovovich</actor>
+		<actor>Matthew McConaughey</actor>
+		<actor>Ben Affleck</actor>
+		<actor>Joey Lauren Adams</actor>
+		<actor>Parker Posey</actor>
+		<keyword>Last Day Of School</keyword>
+		<keyword>High School</keyword>
+		<keyword>Hazing</keyword>
+		<keyword>Spanking</keyword>
+		<keyword>Texas</keyword>
+		<coverart>images/dazedconfused.png</coverart>
+	</movie>
+	<movie>
+		<title>Gladiator</title>
+		<year>2000</year>
+		<mpaa>R</mpaa>
+		<genre>Action</genre>
+		<genre>Drama</genre>
+		<genre>Adventure</genre>
+		<director>Ridley Scott</director>
+		<actor>Russell Crowe</actor>
+		<actor>Joaquin Phoenix</actor>
+		<actor>Connie Nielsen</actor>
+		<keyword>Emperor</keyword>
+		<keyword>Gladiator</keyword>
+		<keyword>General</keyword>
+		<keyword>Death</keyword>
+		<keyword>Revenge</keyword>
+		<coverart>images/gladiator.png</coverart>
+	</movie>
+	<movie>
+		<title>The Shawshank Redemption</title>
+		<year>1994</year>
+		<mpaa>R</mpaa>
+		<genre>Crime</genre>
+		<genre>Drama</genre>
+		<director>Frank Darabont</director>
+		<actor>Tim Robbins</actor>
+		<actor>Morgan Freeman</actor>
+		<actor>Bob Gunton</actor>
+		<actor>William Sadler</actor>
+		<keyword>Prison</keyword>
+		<keyword>Murder</keyword>
+		<keyword>Friend</keyword>
+		<keyword>Banker</keyword>
+		<keyword>Life Imprisonment</keyword>
+		<coverart>images/shawshankredemption.png</coverart>
+	</movie>
+	<movie>
+		<title>Wedding Crashers</title>
+		<year>2005</year>
+		<mpaa>R</mpaa>
+		<genre>Comedy</genre>
+		<genre>Romance</genre>
+		<director>David Dobkin</director>
+		<actor>Owen Wilson</actor>
+		<actor>Vince Vaughn</actor>
+		<actor>Christopher Walken</actor>
+		<actor>Rachel McAdams</actor>
+		<actor>Isla Fisher</actor>
+		<actor>Jane Seymour</actor>
+		<actor>Bradley Cooper</actor>
+		<actor>Henry Gibson</actor>
+		<actor>David Conrad</actor>
+		<actor>Keir O'Donnell</actor>
+		<actor>Ron Canada</actor>
+		<actor>Ellen Albertini Dow</actor>
+		<keyword>Wedding</keyword>
+		<keyword>Divorce</keyword>
+		<keyword>Love</keyword>
+		<keyword>Party</keyword>
+		<keyword>Friend</keyword>
+		<coverart>images/weddingcrashers.png</coverart>
+	</movie>
+	<movie>
+		<title>The Godfather</title>
+		<year>1972</year>
+		<mpaa>R</mpaa>
+		<genre>Crime</genre>
+		<genre>Drama</genre>
+		<director>Francis Ford Coppola</director>
+		<actor>Marlon Brando</actor>
+		<actor>Al Pacino</actor>
+		<actor>James Caan</actor>
+		<actor>Richard S. Castellano</actor>
+		<actor>Robert Duvall</actor>
+		<keyword>Mafia</keyword>
+		<keyword>Wedding</keyword>
+		<keyword>Organized Crime</keyword>
+		<keyword>Violence</keyword>
+		<keyword>Patriarch</keyword>
+		<coverart>images/godfather.png</coverart>
+	</movie>
+	<movie>
+		<title>Pulp Fiction</title>
+		<year>1994</year>
+		<mpaa>R</mpaa>
+		<genre>Crime</genre>
+		<genre>Thriller</genre>
+		<director>Quentin Tarantino</director>
+		<actor>John Travolta</actor>
+		<actor>Uma Thurman</actor>
+		<actor>Samuel L. Jackson</actor>
+		<keyword>Boxer</keyword>
+		<keyword>Restaurant</keyword>
+		<keyword>Briefcase</keyword>
+		<keyword>Violence</keyword>
+		<keyword>Coffee</keyword>
+		<coverart>images/pulpfiction.png</coverart>
+	</movie>
+	<movie>
+		<title>The Good, the Bad and the Ugly</title>
+		<year>1966</year>
+		<mpaa>Approved</mpaa>
+		<genre>Adventure</genre>
+		<genre>Western</genre>
+		<director>Sergio Leone</director>
+		<actor>Clint Eastwood</actor>
+		<actor>Eli Wallach</actor>
+		<actor>Lee Van Cleef</actor>
+		<keyword>Gold</keyword>
+		<keyword>Cemetery</keyword>
+		<keyword>Battle</keyword>
+		<keyword>Showdown</keyword>
+		<keyword>Treasure</keyword>
+		<coverart>images/goodbadugly.png</coverart>
+	</movie>
+	<movie>
+		<title>Schindler's List</title>
+		<year>1993</year>
+		<mpaa>R</mpaa>
+		<genre>Biography</genre>
+		<genre>Drama</genre>
+		<genre>History</genre>
+		<genre>War</genre>
+		<director>Steven Spielberg</director>
+		<actor>Liam Neeson</actor>
+		<actor>Ralph Fiennes</actor>
+		<actor>Ben Kingsley</actor>
+		<keyword>Death</keyword>
+		<keyword>Factory</keyword>
+		<keyword>Nazi</keyword>
+		<keyword>Holocaust</keyword>
+		<keyword>List</keyword>
+		<coverart>images/schindlerslist.png</coverart>
+	</movie>
+	<movie>
+		<title>The Dark Knight</title>
+		<year>2008</year>
+		<mpaa>PG-13</mpaa>
+		<genre>Action</genre>
+		<genre>Crime</genre>
+		<genre>Drama</genre>
+		<genre>Thriller</genre>
+		<director>Christopher Nolan</director>
+		<actor>Christian Bale</actor>
+		<actor>Heath Ledger</actor>
+		<actor>Aaron Eckhart</actor>
+		<keyword>Gotham</keyword>
+		<keyword>Joker</keyword>
+		<keyword>Criminal</keyword>
+		<keyword>Criminal Mastermind</keyword>
+		<keyword>District Attorney</keyword>
+		<coverart>images/darkknight.png</coverart>
+	</movie>
+	<movie>
+		<title>The Lord of the Rings: The Return of the King</title>
+		<year>2003</year>
+		<mpaa>PG-13</mpaa>
+		<genre>Action</genre>
+		<genre>Adventure</genre>
+		<genre>Fantasy</genre>
+		<director>Peter Jackson</director>
+		<actor>Elijah Wood</actor>
+		<actor>Viggo Mortensen</actor>
+		<actor>Ian McKellen</actor>
+		<actor>Cate Blanchett</actor>
+		<actor>Orlando Bloom</actor>
+		<keyword>Ring</keyword>
+		<keyword>Battle</keyword>
+		<keyword>King</keyword>
+		<keyword>Middle Earth</keyword>
+		<keyword>City</keyword>
+		<coverart>images/lotrreturnoftheking.png</coverart>
+	</movie>
+	<movie>
+		<title>Fight Club</title>
+		<year>1999</year>
+		<mpaa>R</mpaa>
+		<genre>Drama</genre>
+		<director>David Fincher</director>
+		<actor>Brad Pitt</actor>
+		<actor>Edward Norton</actor>
+		<actor>Helena Bonham Carter</actor>
+		<keyword>Fight</keyword>
+		<keyword>Club</keyword>
+		<keyword>Support Group</keyword>
+		<keyword>Out of Control</keyword>
+		<keyword>Revolution</keyword>
+		<coverart>images/fightclub.png</coverart>
+	</movie>
+	<movie>
+		<title>Star Wars: Episode V - The Empire Strikes Back</title>
+		<year>1980</year>
+		<mpaa>PG</mpaa>
+		<genre>Action</genre>
+		<genre>Adventure</genre>
+		<genre>Sci-Fi</genre>
+		<director>Irvin Kershner</director>
+		<actor>Mark Hamill</actor>
+		<actor>Harrison Ford</actor>
+		<actor>Carrie Fisher</actor>
+		<keyword>Princess</keyword>
+		<keyword>Empire</keyword>
+		<keyword>Escape</keyword>
+		<keyword>Rebel</keyword>
+		<keyword>Training</keyword>
+		<coverart>images/starwarsempireback.png</coverart>
+	</movie>
+	<movie>
+		<title>One Flew Over the Cuckoo's Nest</title>
+		<year>1975</year>
+		<mpaa>R</mpaa>
+		<genre>Drama</genre>
+		<director>Milos Forman</director>
+		<actor>Jack Nicholson</actor>
+		<actor>Louise Fletcher</actor>
+		<actor>Michael Berryman</actor>
+		<keyword>Nurse</keyword>
+		<keyword>Patient</keyword>
+		<keyword>Asylum</keyword>
+		<keyword>Basketball</keyword>
+		<keyword>Playing Card</keyword>
+		<coverart>images/flewovercuckoo.png</coverart>
+	</movie>
+	<movie>
+		<title>The Lord of the Rings: The Fellowship of the Ring</title>
+		<year>2001</year>
+		<mpaa>PG-13</mpaa>
+		<genre>Action</genre>
+		<genre>Adventure</genre>
+		<genre>Fantasy</genre>
+		<director>Peter Jackson</director>
+		<actor>Elijah Wood</actor>
+		<actor>Ian McKellen</actor>
+		<actor>Orlando Bloom</actor>
+		<keyword>Ring</keyword>
+		<keyword>Hobbit</keyword>
+		<keyword>Doom</keyword>
+		<keyword>Middle Earth</keyword>
+		<keyword>Ancient</keyword>
+		<coverart>lotrfellowship.png</coverart>
+	</movie>
+	<movie>
+		<title>Inception</title>
+		<year>2010</year>
+		<mpaa>PG-13</mpaa>
+		<genre>Action</genre>
+		<genre>Adventure</genre>
+		<genre>Mystery</genre>
+		<genre>Sci-Fi</genre>
+		<genre>Thriller</genre>
+		<director>Christopher Nolan</director>
+		<actor>Leonardo DiCaprio</actor>
+		<actor>Joseph Gordon-Levitt</actor>
+		<actor>Ellen Page</actor>
+		<keyword>Dream</keyword>
+		<keyword>Children</keyword>
+		<keyword>Subconscious</keyword>
+		<keyword>Thief</keyword>
+		<keyword>Corporate Espionage</keyword>
+		<coverart>images/inception.png</coverart>
+	</movie>
+	<movie>
+		<title>Goodfellas</title>
+		<year>1990</year>
+		<mpaa>R</mpaa>
+		<genre>Biography</genre>
+		<genre>Crime</genre>
+		<genre>Drama</genre>
+		<genre>Thriller</genre>
+		<director>Martin Scorsese</director>
+		<actor>Robert De Niro</actor>
+		<actor>Ray Liotta</actor>
+		<actor>Joe Pesci</actor>
+		<keyword>Gangster</keyword>
+		<keyword>Mafia</keyword>
+		<keyword>Robbery</keyword>
+		<keyword>Cocaine</keyword>
+		<keyword>1960s</keyword>
+		<coverart>images/goodfellas.png</coverart>
+	</movie>
+	<movie>
+		<title>Star Wars</title>
+		<year>1977</year>
+		<mpaa>PG</mpaa>
+		<genre>Action</genre>
+		<genre>Adventure</genre>
+		<genre>Fantasy</genre>
+		<genre>Sci-Fi</genre>
+		<director>George Lucas</director>
+		<actor>Mark Hamill</actor>
+		<actor>Harrison Ford</actor>
+		<actor>Carrie Fisher</actor>
+		<keyword>Empire</keyword>
+		<keyword>Princess</keyword>
+		<keyword>Galaxy</keyword>
+		<keyword>Planet</keyword>
+		<keyword>Farm</keyword>
+		<coverart>images/starwars.png</coverart>
+	</movie>
+	<movie>
+		<title>The Godfather: Part II</title>
+		<year>1974</year>
+		<mpaa>R</mpaa>
+		<genre>Crime</genre>
+		<genre>Drama</genre>
+		<director>Francis Ford Coppola</director>
+		<actor>Al Pacino</actor>
+		<actor>Robert De Niro</actor>
+		<actor>Robert Duvall</actor>
+		<keyword>New York</keyword>
+		<keyword>Cuba</keyword>
+		<keyword>1910s</keyword>
+		<keyword>Business</keyword>
+		<keyword>1950s</keyword>
+		<coverart>images/godfatherpart2.png</coverart>
+	</movie>
+	<movie>
+		<title>Seven Samurai</title>
+		<year>1954</year>
+		<mpaa>UR</mpaa>
+		<genre>Action</genre>
+		<genre>Adventure</genre>
+		<genre>Drama</genre>
+		<director>Akira Kurosawa</director>
+		<actor>Toshiro Mifune</actor>
+		<actor>Takashi Shimura</actor>
+		<actor>Keiko Tsushima</actor>
+		<keyword>Samurai</keyword>
+		<keyword>Bandit</keyword>
+		<keyword>Farmer</keyword>
+		<keyword>Japan</keyword>
+		<keyword>Rice</keyword>
+		<coverart>images/sevensamurai.png</coverart>
+	</movie>
+	<movie>
+		<title>Forrest Gump</title>
+		<year>1994</year>
+		<mpaa>PG-13</mpaa>
+		<genre>Drama</genre>
+		<genre>Romance</genre>
+		<director>Robert Zemeckis</director>
+		<actor>Tom Hanks</actor>
+		<actor>Robin Wright</actor>
+		<actor>Gary Sinise</actor>
+		<keyword>Love</keyword>
+		<keyword>Fishing</keyword>
+		<keyword>Simple Man</keyword>
+		<keyword>Running</keyword>
+		<keyword>Bus</keyword>
+		<coverart>images/forrestgump.png</coverart>
+	</movie>
+	<movie>
+		<title>The Lord of the Rings: The Two Towers</title>
+		<year>2002</year>
+		<mpaa>PG-13</mpaa>
+		<genre>Action</genre>
+		<genre>Adventure</genre>
+		<genre>Fantasy</genre>
+		<director>Peter Jackson</director>
+		<actor>Elijah Wood</actor>
+		<actor>Ian McKellen</actor>
+		<actor>Viggo Mortensen</actor>
+		<keyword>Ring</keyword>
+		<keyword>Army</keyword>
+		<keyword>Orc</keyword>
+		<keyword>Tower</keyword>
+		<keyword>Attack</keyword>
+		<coverart>images/lotrtwotowers.png</coverart>
+	</movie>
+	<movie>
+		<title>Once Upon a Time in the West</title>
+		<year>1968</year>
+		<mpaa>PG-13</mpaa>
+		<genre>Adventure</genre>
+		<genre>Western</genre>
+		<director>Sergio Leone</director>
+		<actor>Henry Fonda</actor>
+		<actor>Charles Bronson</actor>
+		<actor>Claudia Cardinale</actor>
+		<keyword>Harmonica</keyword>
+		<keyword>Assassin</keyword>
+		<keyword>Epic</keyword>
+		<keyword>Man With No Name</keyword>
+		<coverart>images/timeinthewest.png</coverart>
+	</movie>
+	<movie>
+		<title>City of God</title>
+		<year>2002</year>
+		<mpaa>R</mpaa>
+		<genre>Crime</genre>
+		<genre>Drama</genre>
+		<director>Fernando Meirelles</director>
+		<director>Katia Lund</director>
+		<actor>Alexandre Rodgrigues</actor>
+		<actor>Matheus Nachtergaele</actor>
+		<actor>Leandro Firmino</actor>
+		<keyword>Photographer</keyword>
+		<keyword>Boy</keyword>
+		<keyword>Slum</keyword>
+		<keyword>City Of God</keyword>
+		<keyword>Gang</keyword>
+		<coverart>images/cityofgod.png</coverart>
+	</movie>
+	<movie>
+		<title>The Matrix</title>
+		<year>1999</year>
+		<mpaa>R</mpaa>
+		<genre>Action</genre>
+		<genre>Adventure</genre>
+		<genre>Sci-Fi</genre>
+		<director>Andy Wachowski</director>
+		<director>Lana Wachowski</director>
+		<actor>Keanu Reeves</actor>
+		<actor>Laurence Fishburne</actor>
+		<actor>Carrie-Anne Moss</actor>
+		<keyword>Computer</keyword>
+		<keyword>Hacker</keyword>
+		<keyword>Computer Hacker</keyword>
+		<keyword>Matrix</keyword>
+		<keyword>Reality</keyword>
+		<coverart>images/matrix.png</coverart>
+	</movie>
+	<movie>
+		<title>Se7en</title>
+		<year>1995</year>
+		<mpaa>R</mpaa>
+		<genre>Crime</genre>
+		<genre>Mystery</genre>
+		<genre>Thriller</genre>
+		<director>David Fincher</director>
+		<actor>Morgan Freeman</actor>
+		<actor>Brad Pitt</actor>
+		<actor>Kevin Spacey</actor>
+		<keyword>Detective</keyword>
+		<keyword>Seven Deadly Sins</keyword>
+		<keyword>Serial Killer</keyword>
+		<keyword>John Doe</keyword>
+		<keyword>Gluttony</keyword>
+		<coverart>images/se7en.png</coverart>
+	</movie>
+	<movie>
+		<title>The Silence of the Lambs</title>
+		<year>1991</year>
+		<mpaa>R</mpaa>
+		<genre>Thriller</genre>
+		<director>Johnathon Demme</director>
+		<actor>Jodie Foster</actor>
+		<actor>Anthony Hopkins</actor>
+		<actor>Lawrence A. Bonney</actor>
+		<keyword>FBI</keyword>
+		<keyword>Serial Killer</keyword>
+		<keyword>Agent</keyword>
+		<keyword>Psychiatrist</keyword>
+		<keyword>Psychopath</keyword>
+		<coverart>images/silencelambs.png</coverart>
+	</movie>
+	<movie>
+		<title>Casablanca</title>
+		<year>1942</year>
+		<mpaa>PG</mpaa>
+		<genre>Drama</genre>
+		<genre>Romance</genre>
+		<genre>War</genre>
+		<director>Michael Curtiz</director>
+		<actor>Humphrey Bogart</actor>
+		<actor>Ingrid Bergman</actor>
+		<actor>Paul Henreid</actor>
+		<keyword>Casablanca</keyword>
+		<keyword>German</keyword>
+		<keyword>Police</keyword>
+		<keyword>American Expatriate</keyword>
+		<keyword>Visa</keyword>
+		<coverart>images/casablanca.png</coverart>
+	</movie>
+	<movie>
+		<title>Raiders of the Lost Ark</title>
+		<year>1981</year>
+		<mpaa>PG</mpaa>
+		<genre>Action</genre>
+		<genre>Adventure</genre>
+		<director>Steven Spielberg</director>
+		<actor>Harrison Ford</actor>
+		<actor>Karen Allen</actor>
+		<actor>Paul Freeman</actor>
+		<keyword>Nazi</keyword>
+		<keyword>Ark Of The Convenant</keyword>
+		<keyword>Escape</keyword>
+		<keyword>Indiana Jones</keyword>
+		<keyword>Professor</keyword>
+		<coverart>images/raiderslostark.png</coverart>
+	</movie>
+	<movie>
+		<title>The Usual Suspects</title>
+		<year>1995</year>
+		<mpaa>R</mpaa>
+		<genre>Crime</genre>
+		<genre>Drama</genre>
+		<genre>Mystery</genre>
+		<genre>Thriller</genre>
+		<director>Bryan Singer</director>
+		<actor>Kevin Spacey</actor>
+		<actor>Gabriel Byrne</actor>
+		<actor>Chazz Palminteri</actor>
+		<keyword>Criminal</keyword>
+		<keyword>Suspect</keyword>
+		<keyword>Revenge</keyword>
+		<keyword>Explosion</keyword>
+		<keyword>Hungarian</keyword>
+		<coverart>images/usualsuspects.png</coverart>
+	</movie>
+	<movie>
+		<title>Rear Window</title>
+		<year>1954</year>
+		<mpaa>PG</mpaa>
+		<genre>Mystery</genre>
+		<genre>Thriller</genre>
+		<director>Alfred Hitchcock</director>
+		<actor>James Stewart</actor>
+		<actor>Grace Kelly</actor>
+		<actor>Wendell Corey</actor>
+		<keyword>Apartment</keyword>
+		<keyword>Neighbor</keyword>
+		<keyword>Salesman</keyword>
+		<keyword>Photographer</keyword>
+		<keyword>Window</keyword>
+		<coverart>images/rearwindow.png</coverart>
+	</movie>
+	<movie>
+		<title>The Dark Knight Rises</title>
+		<year>2012</year>
+		<mpaa>PG-13</mpaa>
+		<genre>Action</genre>
+		<genre>Crime</genre>
+		<genre>Drama</genre>
+		<genre>Thriller</genre>
+		<director>Christopher Nolan</director>
+		<actor>Christian Bale</actor>
+		<actor>Tom Hardy</actor>
+		<actor>Anne Hathaway</actor>
+		<keyword>Terrorist</keyword>
+		<keyword>Police</keyword>
+		<keyword>Police Station</keyword>
+		<keyword>On The Run</keyword>
+		<keyword>Tragic Hero</keyword>
+		<coverart>images/darkknightrises.png</coverart>
+	</movie>
+	<movie>
+		<title>Psycho</title>
+		<year>1960</year>
+		<mpaa>TV-14</mpaa>
+		<genre>Horror</genre>
+		<genre>Mystery</genre>
+		<genre>Thriller</genre>
+		<director>Alfred Hitchcock</director>
+		<actor>Anthony Perkins</actor>
+		<actor>Janet Leigh</actor>
+		<actor>Vera Miles</actor>
+		<keyword>Motel</keyword>
+		<keyword>Money</keyword>
+		<keyword>California</keyword>
+		<keyword>Shower</keyword>
+		<keyword>Alimony</keyword>
+		<coverart>images/pyscho.png</coverart>
+	</movie>
+	<movie>
+		<title>It's a Wonderful Life</title>
+		<year>1946</year>
+		<mpaa>UR</mpaa>
+		<genre>Drama</genre>
+		<genre>Fantasy</genre>
+		<director>Frank Capra</director>
+		<actor>James Stewart</actor>
+		<actor>Donna Reed</actor>
+		<actor>Lionel Barrymore</actor>
+		<keyword>Angel</keyword>
+		<keyword>Business</keyword>
+		<keyword>Christmas Eve</keyword>
+		<keyword>Christmas</keyword>
+		<keyword>Small Town</keyword>
+		<coverart>images/wonderfullife.png</coverart>
+	</movie>
+	<movie>
+		<title>Memento</title>
+		<year>2000</year>
+		<mpaa>R</mpaa>
+		<genre>Mystery</genre>
+		<genre>Thriller</genre>
+		<director>Christopher Nolan</director>
+		<actor>Guy Pearce</actor>
+		<actor>Carrie-Anne Moss</actor>
+		<actor>Joe Pantoliano</actor>
+		<keyword>Memory</keyword>
+		<keyword>Short Term Memory</keyword>
+		<keyword>Murder</keyword>
+		<keyword>Polaroid</keyword>
+		<keyword>Short Term Memory Loss</keyword>
+		<coverart>images/memento.png</coverart>
+	</movie>
+	<movie>
+		<title>American History X</title>
+		<year>1998</year>
+		<mpaa>R</mpaa>
+		<genre>Crime</genre>
+		<genre>Drama</genre>
+		<director>Tony Kaye</director>
+		<actor>Edward Norton</actor>
+		<actor>Edward Furlong</actor>
+		<actor>Beverly D'Angelo</actor>
+		<keyword>Prison</keyword>
+		<keyword>Skinhead</keyword>
+		<keyword>Neo Nazi</keyword>
+		<keyword>Gang</keyword>
+		<keyword>White Supremacist</keyword>
+		<coverart>images/americanhistoryx.png</coverart>
+	</movie>
+	<movie>
+		<title>Apocalypse Now</title>
+		<year>1979</year>
+		<mpaa>R</mpaa>
+		<genre>Drama</genre>
+		<genre>War</genre>
+		<director>Francis Ford Coppola</director>
+		<actor>Martin Sheen</actor>
+		<actor>Marlon Brando</actor>
+		<actor>Robert Duvall</actor>
+		<keyword>Army</keyword>
+		<keyword>Colonel</keyword>
+		<keyword>Jungle</keyword>
+		<keyword>Vietnam</keyword>
+		<keyword>Captain</keyword>
+		<coverart>images/apocalypsenow.png</coverart>
+	</movie>
+	<movie>
+		<title>Robin Hood</title>
+		<year>2010</year>
+		<mpaa>PG-13</mpaa>
+		<genre>Action</genre>
+		<genre>Adventure</genre>
+		<genre>Drama</genre>
+		<director>Ridley Scott</director>
+		<actor>Russell Crowe</actor>
+		<actor>Cate Blanchett</actor>
+		<actor>Matthew Macfadyen</actor>
+		<keyword>King</keyword>
+		<keyword>Crown</keyword>
+		<keyword>Archer</keyword>
+		<keyword>Sword</keyword>
+		<keyword>Knight</keyword>
+		<coverart>images/robinhood.png</coverart>
+	</movie>
+	<movie>
+		<title>Apocalypto</title>
+		<year>2006</year>
+		<mpaa>R</mpaa>
+		<genre>Action</genre>
+		<genre>Adventure</genre>
+		<genre>Drama</genre>
+		<director>Mel Gibson</director>
+		<actor>Gerardo Taracena</actor>
+		<actor>Raoul Trujillo</actor>
+		<actor>Dalia Hernandez</actor>
+		<keyword>Jaguar</keyword>
+		<keyword>Tribe</keyword>
+		<keyword>Forest</keyword>
+		<keyword>Prophecy</keyword>
+		<keyword>Hunting</keyword>
+		<coverart>images/apocalypto.png</coverart>
+	</movie>
+	<movie>
+		<title>Master and Commander: The Far Side of the World</title>
+		<year>2003</year>
+		<mpaa>PG-13</mpaa>
+		<genre>Action</genre>
+		<genre>Adventure</genre>
+		<genre>Drama</genre>
+		<genre>War</genre>
+		<director>Peter Weir</director>
+		<actor>Russell Crowe</actor>
+		<actor>Paul Bettany</actor>
+		<actor>Billy Boyd</actor>
+		<keyword>Ship</keyword>
+		<keyword>French</keyword>
+		<keyword>Napoleonic Wars</keyword>
+		<keyword>Naturalist</keyword>
+		<keyword>Pursuit</keyword>
+		<coverart>images/masterandcommander.png</coverart>
+	</movie>
+	<movie>
+		<title>Hidalgo</title>
+		<year>2004</year>
+		<mpaa>PG-13</mpaa>
+		<genre>Action</genre>
+		<genre>Adventure</genre>
+		<genre>Western</genre>
+		<director>Joe Johnston</director>
+		<actor>Viggo Mortensen</actor>
+		<actor>Omar Sharif</actor>
+		<actor>Zuleikha Robinson</actor>
+		<keyword>Horse</keyword>
+		<keyword>Race</keyword>
+		<keyword>Cowboy</keyword>
+		<keyword>Sheik</keyword>
+		<keyword>Desert</keyword>
+		<coverart>images/hidalgo.png</coverart>
+	</movie>
+	<movie>
+		<title>The Guardian</title>
+		<year>2006</year>
+		<mpaa>PG-13</mpaa>
+		<genre>Action</genre>
+		<genre>Adventure</genre>
+		<genre>Drama</genre>
+		<director>Andrew Davis</director>
+		<actor>Kevin Costner</actor>
+		<actor>Ashton Kutcher</actor>
+		<actor>Sela Ward</actor>
+		<keyword>Rescue</keyword>
+		<keyword>Coast Guard</keyword>
+		<keyword>Team</keyword>
+		<keyword>Training</keyword>
+		<keyword>Instructor</keyword>
+		<coverart>images/theguardian.png</coverart>
+	</movie>
+	<movie>
+		<title>American Beauty</title>
+		<year>1999</year>
+		<mpaa>R</mpaa>
+		<genre>Drama</genre>
+		<director>Sam Mendes</director>
+		<actor>Kevin Spacey</actor>
+		<actor>Annette Bening</actor>
+		<actor>Thora Birch</actor>
+		<keyword>Infatuation</keyword>
+		<keyword>Fast Food Restaurant</keyword>
+		<keyword>Friendship</keyword>
+		<keyword>Rose</keyword>
+		<keyword>Love</keyword>
+		<coverart>images/americanbeauty.png</coverart>
+	</movie>
+	<movie>
+		<title>Saving Private Ryan</title>
+		<year>1998</year>
+		<mpaa>R</mpaa>
+		<genre>Action</genre>
+		<genre>Drama</genre>
+		<genre>War</genre>
+		<director>Steven Spielberg</director>
+		<actor>Tom Hanks</actor>
+		<actor>Matt Damon</actor>
+		<actor>Tom Sizemore</actor>
+		<actor>Vin Diesel</actor>
+		<keyword>Invasion</keyword>
+		<keyword>General</keyword>
+		<keyword>Normandy</keyword>
+		<keyword>Killed In Action</keyword>
+		<keyword>Soldier</keyword>
+		<coverart>images/savingprivateryan.png</coverart>
+	</movie>
+	<movie>
+		<title>The Departed</title>
+		<year>2006</year>
+		<mpaa>R</mpaa>
+		<genre>Crime</genre>
+		<genre>Drama</genre>
+		<genre>Thriller</genre>
+		<director>Martin Scorsese</director>
+		<actor>Leonardo DiCaprio</actor>
+		<actor>Matt Damon</actor>
+		<actor>Jack Nicholson</actor>
+		<actor>Mark Wahlberg</actor>
+		<keyword>Police</keyword>
+		<keyword>Undercover</keyword>
+		<keyword>State Police</keyword>
+		<keyword>Mafia</keyword>
+		<keyword>Criminal</keyword>
+		<coverart>images/departed.png</coverart>
+	</movie>
+	<movie>
+		<title>Walk the Line</title>
+		<year>2005</year>
+		<mpaa>PG-13</mpaa>
+		<genre>Biography</genre>
+		<genre>Drama</genre>
+		<genre>Music</genre>
+		<genre>Romance</genre>
+		<director>James Mangold</director>
+		<actor>Joaquin Phoenix</actor>
+		<actor>Reese Witherspoon</actor>
+		<actor>Ginnifer Goodwin</actor>
+		<keyword>Marriage</keyword>
+		<keyword>Prison</keyword>
+		<keyword>Germany</keyword>
+		<keyword>Concert</keyword>
+		<keyword>Love</keyword>
+		<coverart>images/walktheline.png</coverart>
+	</movie>
+	<movie>
+		<title>The English Patient</title>
+		<year>1996</year>
+		<mpaa>R</mpaa>
+		<genre>Drama</genre>
+		<genre>Romance</genre>
+		<genre>War</genre>
+		<director>Anthony Minghella</director>
+		<actor>Ralph Fiennes</actor>
+		<actor>Juliette Binoche</actor>
+		<actor>Willem Dafoe</actor>
+		<keyword>Nurse</keyword>
+		<keyword>Flashback</keyword>
+		<keyword>Patient</keyword>
+		<keyword>Love</keyword>
+		<keyword>Sahara</keyword>
+		<coverart>images/englishpatient.png</coverart>
+	</movie>
+	<movie>
+		<title>Big Fish</title>
+		<year>2003</year>
+		<mpaa>PG-13</mpaa>
+		<genre>Adventure</genre>
+		<genre>Drama</genre>
+		<genre>Fantasy</genre>
+		<genre>Mystery</genre>
+		<director>Tim Burton</director>
+		<actor>Ewan McGregor</actor>
+		<actor>Albert Finney</actor>
+		<actor>Billy Crudup</actor>
+		<keyword>Dying</keyword>
+		<keyword>Flashback</keyword>
+		<keyword>Legend</keyword>
+		<keyword>Liar</keyword>
+		<keyword>Swimming Pool</keyword>
+		<coverart>images/bigfish.png</coverart>
+	</movie>
+	<movie>
+		<title>Titanic</title>
+		<year>1997</year>
+		<mpaa>PG-13</mpaa>
+		<genre>Drama</genre>
+		<genre>Romance</genre>
+		<director>James Cameron</director>
+		<actor>Leonardo DiCaprio</actor>
+		<actor>Kate Winslet</actor>
+		<actor>Billy Zane</actor>
+		<keyword>Titanic</keyword>
+		<keyword>Ship</keyword>
+		<keyword>Love</keyword>
+		<keyword>Diamond</keyword>
+		<keyword>Suicide</keyword>
+		<coverart>images/titanic.png</coverart>
+	</movie>
+	<movie>
+		<title>Finding Nemo</title>
+		<year>2003</year>
+		<mpaa>G</mpaa>
+		<genre>Animation</genre>
+		<genre>Adventure</genre>
+		<genre>Comedy</genre>
+		<genre>Family</genre>
+		<director>Andrew Stanton</director>
+		<director>Lee Unkrich</director>
+		<actor>Albert Brooks</actor>
+		<actor>Ellen DeGeneres</actor>
+		<actor>Alexander Gould</actor>
+		<keyword>Fish</keyword>
+		<keyword>Dentist</keyword>
+		<keyword>Fish Tank</keyword>
+		<keyword>Great Barrier Reef</keyword>
+		<keyword>Ocean</keyword>
+		<coverart>images/findingnemo.png</coverart>
+	</movie>
+	<movie>
+		<title>Slumdog Millionaire</title>
+		<year>2008</year>
+		<mpaa>R</mpaa>
+		<genre>Drama</genre>
+		<genre>Romance</genre>
+		<genre>Thriller</genre>
+		<director>Danny Boyle</director>
+		<director>Loveleen Tandan</director>
+		<actor>Dev Patel</actor>
+		<actor>Freida Pinto</actor>
+		<actor>Saurabh Shukla</actor>
+		<keyword>Question</keyword>
+		<keyword>Cheating</keyword>
+		<keyword>Slum</keyword>
+		<keyword>Millionaire</keyword>
+		<keyword>2000s</keyword>
+		<coverart>images/slumdogmillionaire.png</coverart>
+	</movie>
+	<movie>
+		<title>Terminator 2: Judgment Day</title>
+		<year>1991</year>
+		<mpaa>R</mpaa>
+		<genre>Action</genre>
+		<genre>Sci-Fi</genre>
+		<genre>Thriller</genre>
+		<director>James Cameron</director>
+		<actor>Arnold Schwarzenegger</actor>
+		<actor>Linda Hamilton</actor>
+		<actor>Edward Furlong</actor>
+		<keyword>Future</keyword>
+		<keyword>Cyborg</keyword>
+		<keyword>Warrior</keyword>
+		<keyword>Sequel</keyword>
+		<keyword>Liquid Metal</keyword>
+		<coverart>images/terminator2.png</coverart>
+	</movie>
+	<movie>
+		<title>North by Northwest</title>
+		<year>1959</year>
+		<mpaa>NR</mpaa>
+		<genre>Adventure</genre>
+		<genre>Crime</genre>
+		<genre>Mystery</genre>
+		<genre>Romance</genre>
+		<genre>Thriller</genre>
+		<director>Alfred Hitchcock</director>
+		<actor>Cary Grant</actor>
+		<actor>Eva Marie Saint</actor>
+		<actor>James Mason</actor>
+		<keyword>Spy</keyword>
+		<keyword>Advertising</keyword>
+		<keyword>Agent</keyword>
+		<keyword>Government Agent</keyword>
+		<keyword>Murder</keyword>
+		<coverart>images/northbynorthwest.png</coverart>
+	</movie>
+	<movie>
+		<title>Spirited Away</title>
+		<year>2001</year>
+		<mpaa>PG</mpaa>
+		<genre>Animation</genre>
+		<genre>Adventure</genre>
+		<genre>Family</genre>
+		<genre>Fantasy</genre>
+		<director>Hayao Miyazaki</director>
+		<actor>Daveigh Chase</actor>
+		<actor>Suzanne Pleshette</actor>
+		<actor>Miyu Irino</actor>
+		<keyword>God</keyword>
+		<keyword>Bathhouse</keyword>
+		<keyword>Pig</keyword>
+		<keyword>Spirit</keyword>
+		<keyword>Car</keyword>
+		<coverart>images/spiritedaway.png</coverart>
+	</movie>
+	<movie>
+		<title>The Shining</title>
+		<year>1980</year>
+		<mpaa>R</mpaa>
+		<genre>Horror</genre>
+		<genre>Mystery</genre>
+		<director>Stanley Kubrick</director>
+		<actor>Jack Nicholson</actor>
+		<actor>Shelley Duvall</actor>
+		<actor>Danny Lloyd</actor>
+		<keyword>Hotel</keyword>
+		<keyword>Caretaker</keyword>
+		<keyword>Winter</keyword>
+		<keyword>Ghost</keyword>
+		<keyword>Insanity</keyword>
+		<coverart>images/shining</coverart>
+	</movie>
+	<movie>
+		<title>Back to the Future</title>
+		<year>1985</year>
+		<mpaa>PG</mpaa>
+		<genre>Adventure</genre>
+		<genre>Comedy</genre>
+		<genre>Sci-Fi</genre>
+		<director>Robert Zemeckis</director>
+		<actor>Michael J. Fox</actor>
+		<actor>Christopher Llod</actor>
+		<actor>Lea Thompson</actor>
+		<keyword>Time Machine</keyword>
+		<keyword>Mad Scientist</keyword>
+		<keyword>Lightning</keyword>
+		<keyword>High School</keyword>
+		<keyword>Clock</keyword>
+		<coverart>images/backtothefuture.png</coverart>
+	</movie>
+	<movie>
+		<title>Back to the Future Part II</title>
+		<year>1989</year>
+		<mpaa>PG</mpaa>
+		<genre>Adventure</genre>
+		<genre>Comedy</genre>
+		<genre>Sci-Fi</genre>
+		<director>Robert Zemeckis</director>
+		<actor>Michael J. Fox</actor>
+		<actor>Christopher Lloyd</actor>
+		<actor>Lea Thompson</actor>
+		<keyword>Future</keyword>
+		<keyword>Time Machine</keyword>
+		<keyword>Second Part</keyword>
+		<keyword>Lightning</keyword>
+		<keyword>Meeting Future Self</keyword>
+		<coverart>images/backtothefuturepart2.png</coverart>
+	</movie>
+	<movie>
+		<title>Jurassic Park</title>
+		<year>1993</year>
+		<mpaa>PG-13</mpaa>
+		<genre>Adventure</genre>
+		<genre>Family</genre>
+		<genre>Sci-Fi</genre>
+		<director>Steven Spielberg</director>
+		<actor>Sam Neill</actor>
+		<actor>Laura Dern</actor>
+		<actor>Jeff Goldblum</actor>
+		<actor>Samuel L. Jackson</actor>
+		<keyword>Dinosaur</keyword>
+		<keyword>Island</keyword>
+		<keyword>Theme Park</keyword>
+		<keyword>Tour</keyword>
+		<keyword>Computer</keyword>
+		<coverart>images/jurassicpark.png</coverart>
+	</movie>
+	<movie>
+		<title>The Pianist</title>
+		<year>2002</year>
+		<mpaa>R</mpaa>
+		<genre>Biography</genre>
+		<genre>Drama</genre>
+		<genre>War</genre>
+		<director>Roman Polanski</director>
+		<actor>Adrien Brody</actor>
+		<actor>Thomas Kretschmann</actor>
+		<actor>Frank Finlay</actor>
+		<keyword>Warsaw Ghetto</keyword>
+		<keyword>Jewish</keyword>
+		<keyword>Nazi</keyword>
+		<keyword>Piano</keyword>
+		<keyword>Musician</keyword>
+		<coverart>images/pianist.png</coverart>
+	</movie>
+	<movie>
+		<title>Toy Story 3</title>
+		<year>2010</year>
+		<mpaa>G</mpaa>
+		<genre>Animation</genre>
+		<genre>Adventure</genre>
+		<genre>Comedy</genre>
+		<genre>Family</genre>
+		<genre>Fantasy</genre>
+		<director>Lee Unkrich</director>
+		<actor>Tom Hanks</actor>
+		<actor>Tim Allen</actor>
+		<actor>Joan Cusack</actor>
+		<keyword>Toy</keyword>
+		<keyword>College</keyword>
+		<keyword>Escape</keyword>
+		<keyword>Children</keyword>
+		<keyword>Teddy Bear</keyword>
+		<coverart>images/toystory3.png</coverart>
+	</movie>
+	<movie>
+		<title>Life Is Beautiful</title>
+		<year>1997</year>
+		<mpaa>PG-13</mpaa>
+		<genre>Comedy</genre>
+		<genre>Drama</genre>
+		<genre>Romance</genre>
+		<genre>War</genre>
+		<director>Robert Benigni</director>
+		<actor>Roberto Benigni</actor>
+		<actor>Nicoletta Braschi</actor>
+		<actor>Giorgio Cantarini</actor>
+		<keyword>Jewish</keyword>
+		<keyword>Tank</keyword>
+		<keyword>Italy</keyword>
+		<keyword>Waiter</keyword>
+		<keyword>Restaurant</keyword>
+		<coverart>images/lifeisbeautiful.png</coverart>
+	</movie>
+	<movie>
+		<title>WALL-E</title>
+		<year>2008</year>
+		<mpaa>G</mpaa>
+		<genre>Animation</genre>
+		<genre>Adventure</genre>
+		<genre>Family</genre>
+		<genre>Romance</genre>
+		<genre>Sci-Fi</genre>
+		<director>Andrew Stanton</director>
+		<actor>Ben Burtt</actor>
+		<actor>Elissa Knight</actor>
+		<actor>Jeff Garlin</actor>
+		<keyword>Robot</keyword>
+		<keyword>Plant</keyword>
+		<keyword>Future</keyword>
+		<keyword>Rescue</keyword>
+		<keyword>Captain</keyword>
+		<coverart>images/wall-e.png</coverart>
+	</movie>
+	<movie>
+		<title>The Lives of Others</title>
+		<year>2006</year>
+		<mpaa>R</mpaa>
+		<genre>Drama</genre>
+		<genre>Thriller</genre>
+		<director>Florian Henckel von Donnersmarck</director>
+		<actor>Ulrich Muhe</actor>
+		<actor>Martina Gedeck</actor>
+		<actor>Sebastian Koch</actor>
+		<keyword>Party</keyword>
+		<keyword>Secret Police</keyword>
+		<keyword>Surveillance</keyword>
+		<keyword>Writer</keyword>
+		<keyword>1980s</keyword>
+		<coverart>images/livesofothers.png</coverart>
+	</movie>
+	<movie>
+		<title>A Clockwork Orange</title>
+		<year>1971</year>
+		<mpaa>R</mpaa>
+		<genre>Crime</genre>
+		<genre>Drama</genre>
+		<genre>Sci-Fi</genre>
+		<director>Stanley Kubrick</director>
+		<actor>Malcolm McDowell</actor>
+		<actor>Patrick Magee</actor>
+		<actor>Michael Bates</actor>
+		<keyword>Britain</keyword>
+		<keyword>Violence</keyword>
+		<keyword>Aversion Therapy</keyword>
+		<keyword>Gang</keyword>
+		<keyword>Rape</keyword>
+		<coverart>images/clockworkorange.png</coverart>
+	</movie>
+	<movie>
+		<title>The Green Mile</title>
+		<year>1999</year>
+		<mpaa>R</mpaa>
+		<genre>Crime</genre>
+		<genre>Drama</genre>
+		<genre>Fantasy</genre>
+		<genre>Mystery</genre>
+		<director>Frank Darabont</director>
+		<actor>Tom Hanks</actor>
+		<actor>Michael Clarke Duncan</actor>
+		<actor>David Morse</actor>
+		<keyword>Death Row</keyword>
+		<keyword>Prison Guard</keyword>
+		<keyword>Prison</keyword>
+		<keyword>1930s</keyword>
+		<keyword>Murder</keyword>
+		<coverart>images/greenmile.png</coverart>
+	</movie>
+	<movie>
+		<title>The Prestige</title>
+		<year>2006</year>
+		<mpaa>PG-13</mpaa>
+		<genre>Drama</genre>
+		<genre>Mystery</genre>
+		<genre>Thriller</genre>
+		<director>Christopher Nolan</director>
+		<actor>Christian Bale</actor>
+		<actor>Hugh Jackman</actor>
+		<actor>Scarlett Johansson</actor>
+		<keyword>Magician</keyword>
+		<keyword>Rivarly</keyword>
+		<keyword>Secret</keyword>
+		<keyword>Illusion</keyword>
+		<keyword>Deceit</keyword>
+		<coverart>images/prestige.png</coverart>
+	</movie>
+	<movie>
+		<title>Prometheus</title>
+		<year>2012</year>
+		<mpaa>R</mpaa>
+		<genre>Adventure</genre>
+		<genre>Mystery</genre>
+		<genre>Sci-Fi</genre>
+		<director>Ridley Scott</director>
+		<actor>Noomi Rapace</actor>
+		<actor>Logan Marshall-Green</actor>
+		<actor>Michael Fassbender</actor>
+		<keyword>Alien</keyword>
+		<keyword>Explorer</keyword>
+		<keyword>Scientist</keyword>
+		<keyword>Archaeologist</keyword>
+		<keyword>Mission</keyword>
+		<coverart>images/prometheus.png</coverart>
+	</movie>
+	<movie>
+		<title>X-Men: First Class</title>
+		<year>2011</year>
+		<mpaa>PG-13</mpaa>
+		<genre>Action</genre>
+		<genre>Adventure</genre>
+		<genre>Sci-Fi</genre>
+		<genre>Thriller</genre>
+		<director>Matthew Vaughn</director>
+		<actor>James McAvoy</actor>
+		<actor>Michael Fassbender</actor>
+		<actor>Jennifer Lawrence</actor>
+		<keyword>Mutant</keyword>
+		<keyword>Professor</keyword>
+		<keyword>Poland</keyword>
+		<keyword>CIA Agent</keyword>
+		<keyword>X Men</keyword>
+		<coverart>images/xmenfirstclass.png</coverart>
+	</movie>
+	<movie>
+		<title>Blade Runner</title>
+		<year>1982</year>
+		<mpaa>R</mpaa>
+		<genre>Drama</genre>
+		<genre>Sci-Fi</genre>
+		<genre>Thriller</genre>
+		<director>Ridley Scott</director>
+		<actor>Harrison Ford</actor>
+		<actor>Rutger Hauer</actor>
+		<actor>Sean Young</actor>
+		<keyword>Replicant</keyword>
+		<keyword>Blade Runner</keyword>
+		<keyword>Future</keyword>
+		<keyword>Cyberpunk</keyword>
+		<keyword>Police</keyword>
+		<coverart>images/bladerunner.png</coverart>
+	</movie>
+	<movie>
+		<title>Avatar</title>
+		<year>2009</year>
+		<mpaa>PG-13</mpaa>
+		<genre>Action</genre>
+		<genre>Adventure</genre>
+		<genre>Fantasy</genre>
+		<genre>Sci-Fi</genre>
+		<director>James Cameron</director>
+		<actor>Sam Worthington</actor>
+		<actor>Zoe Saldana</actor>
+		<actor>Sigourney Weaver</actor>
+		<keyword>Paraplegic</keyword>
+		<keyword>Native</keyword>
+		<keyword>Marine</keyword>
+		<keyword>Colonel</keyword>
+		<keyword>Avatar</keyword>
+		<coverart>images/avatar.png</coverart>
+	</movie>
+	<movie>
+		<title>Real Steel</title>
+		<year>2011</year>
+		<mpaa>PG-13</mpaa>
+		<genre>Drama</genre>
+		<genre>Sci-Fi</genre>
+		<genre>Sport</genre>
+		<director>Shawn Levy</director>
+		<actor>Hugh Jackman</actor>
+		<actor>Evangeline Lilly</actor>
+		<actor>Dakota Goyo</actor>
+		<keyword>Robot</keyword>
+		<keyword>Boxing</keyword>
+		<keyword>Fight</keyword>
+		<keyword>Near Future</keyword>
+		<keyword>Boy</keyword>
+		<coverart>images/realsteel.png</coverart>
+	</movie>
+	<movie>
+		<title>The Lost World: Jurassic Park</title>
+		<year>1997</year>
+		<mpaa>PG-13</mpaa>
+		<genre>Adventure</genre>
+		<genre>Sci-Fi</genre>
+		<genre>Thriller</genre>
+		<director>Steven Spielberg</director>
+		<actor>Jeff Goldblum</actor>
+		<actor>Julianne Moore</actor>
+		<actor>Pete Postlethwaite</actor>
+		<keyword>Island</keyword>
+		<keyword>Dinosaur</keyword>
+		<keyword>Jurassic</keyword>
+		<keyword>Girlfriend</keyword>
+		<keyword>Capture</keyword>
+		<coverart>images/lostworldjurassicpark.png</coverart>
+	</movie>
+	<movie>
+		<title>To Kill a Mockingbird</title>
+		<year>1962</year>
+		<mpaa>NR</mpaa>
+		<genre>Crime</genre>
+		<genre>Drama</genre>
+		<genre>Mystery</genre>
+		<director>Robert Mulligan</director>
+		<actor>Gregory Peck</actor>
+		<actor>John Megna</actor>
+		<actor>Frank Overton</actor>
+		<keyword>Children</keyword>
+		<keyword>Trial</keyword>
+		<keyword>Lawyer</keyword>
+		<keyword>Alabama</keyword>
+		<keyword>Injustice</keyword>
+		<coverart>images/killmockingbird.png</coverart>
+	</movie>
+	<movie>
+		<title>The Machinist</title>
+		<year>2004</year>
+		<mpaa>R</mpaa>
+		<genre>Drama</genre>
+		<genre>Thriller</genre>
+		<director>Brad Anderson</director>
+		<actor>Christian Bale</actor>
+		<actor>Jennifer Jason Leigh</actor>
+		<actor>Aitana Sanchez</actor>
+		<keyword>Insomnia</keyword>
+		<keyword>Machinist</keyword>
+		<keyword>Post It</keyword>
+		<keyword>Sleeping</keyword>
+		<keyword>Prostitue</keyword>
+		<coverart>images/machinist.png</coverart>
+	</movie>
+	<movie>
+		<title>28 Days Later</title>
+		<year>2002</year>
+		<mpaa>R</mpaa>
+		<genre>Horror</genre>
+		<genre>Sci-Fi</genre>
+		<genre>Thriller</genre>
+		<director>Danny Boyle</director>
+		<actor>Cilian Murphy</actor>
+		<actor>Naomie Harris</actor>
+		<actor>Christopher Eccleston</actor>
+		<keyword>Virus</keyword>
+		<keyword>Survivor</keyword>
+		<keyword>Coma</keyword>
+		<keyword>Scientist</keyword>
+		<keyword>Animal Rights</keyword>
+		<coverart>images/28dayslater.png</coverart>
+	</movie>
+	<movie>
+		<title>The Terminal</title>
+		<year>2004</year>
+		<mpaa>PG-13</mpaa>
+		<genre>Comedy</genre>
+		<genre>Drama</genre>
+		<director>Steven Spielberg</director>
+		<actor>Tom Hanks</actor>
+		<actor>Catherine Zeta-Jones</actor>
+		<actor>Chi McBride</actor>
+		<keyword>Airport</keyword>
+		<keyword>Flight Attendant</keyword>
+		<keyword>English</keyword>
+		<keyword>Passport</keyword>
+		<keyword>Love</keyword>
+		<coverart>images/terminal.png</coverart>
+	</movie>
+	<movie>
+		<title>Knocked Up</title>
+		<year>2007</year>
+		<mpaa>R</mpaa>
+		<genre>Comedy</genre>
+		<genre>Drama</genre>
+		<genre>Romance</genre>
+		<director>Judd Apatow</director>
+		<actor>Seth Rogen</actor>
+		<actor>Katherine Heigl</actor>
+		<actor>Paul Rudd</actor>
+		<keyword>One Night Stand</keyword>
+		<keyword>Condom</keyword>
+		<keyword>Party</keyword>
+		<keyword>Website</keyword>
+		<keyword>Club</keyword>
+		<coverart>images/knockedup.png</coverart>
+	</movie>
+	<movie>
+		<title>Yes Man</title>
+		<year>2008</year>
+		<mpaa>PG-13</mpaa>
+		<genre>Comedy</genre>
+		<genre>Romance</genre>
+		<director>Peyton Reed</director>
+		<actor>Jim Carrey</actor>
+		<actor>Zooey Deschanel</actor>
+		<actor>Bradley Cooper</actor>
+		<keyword>Scooter</keyword>
+		<keyword>Friend</keyword>
+		<keyword>Year</keyword>
+		<keyword>Homeless Man</keyword>
+		<keyword>Banker</keyword>
+		<coverart>images/yesman.png</coverart>
+	</movie>
+	<movie>
+		<title>The 40 Year Old Virgin</title>
+		<year>2005</year>
+		<mpaa>R</mpaa>
+		<genre>Comedy</genre>
+		<genre>Romance</genre>
+		<director>Judd Apatow</director>
+		<actor>Steve Carell</actor>
+		<actor>Catherine Keener</actor>
+		<actor>Paul Rudd</actor>
+		<actor>Seth Rogen</actor>
+		<keyword>40 Year Old</keyword>
+		<keyword>Virgin</keyword>
+		<keyword>Collection</keyword>
+		<keyword>Poker</keyword>
+		<keyword>Love</keyword>
+		<coverart>images/40yovirgin.png</coverart>
+	</movie>
+	<movie>
+		<title>I Love You, Man</title>
+		<year>2009</year>
+		<mpaa>R</mpaa>
+		<genre>Comedy</genre>
+		<genre>Romance</genre>
+		<director>John Hamburg</director>
+		<actor>Paul Rudd</actor>
+		<actor>Jason Segel</actor>
+		<actor>Rashida Jones</actor>
+		<keyword>Friend</keyword>
+		<keyword>Best Man</keyword>
+		<keyword>Wedding</keyword>
+		<keyword>Friendship</keyword>
+		<keyword>Best Friend</keyword>
+		<coverart>images/iloveyouman.png</coverart>
+	</movie>
+	<movie>
+		<title>Up in the Air</title>
+		<year>2009</year>
+		<mpaa>R</mpaa>
+		<genre>Drama</genre>
+		<genre>Romance</genre>
+		<director>Jason Reitman</director>
+		<actor>George Clooney</actor>
+		<actor>Vera Farmiga</actor>
+		<actor>Anna Kendrick</actor>
+		<keyword>Suitcase</keyword>
+		<keyword>Downsizing</keyword>
+		<keyword>Business</keyword>
+		<keyword>Computer</keyword>
+		<keyword>Hotel</keyword>
+		<coverart>images/upintheair.png</coverart>
+	</movie>
+	<movie>
+		<title>Pay It Forward</title>
+		<year>2000</year>
+		<mpaa>PG-13</mpaa>
+		<genre>Drama</genre>
+		<director>Mimi Leder</director>
+		<actor>Kevin Spacey</actor>
+		<actor>Haley Joel Osment</actor>
+		<actor>Helen Hunt</actor>
+		<keyword>Teacher</keyword>
+		<keyword>Boy</keyword>
+		<keyword>Good Deed</keyword>
+		<keyword>Alcoholism</keyword>
+		<keyword>Mother Son Relationship</keyword>
+		<coverart>images/payitforward.png</coverart>
+	</movie>
+</movies>
