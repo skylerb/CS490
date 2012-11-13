@@ -153,6 +153,9 @@ public class MovieServer {
 			List<Attribute> usedAttributes = new ArrayList<Attribute>();
 
 			int command = ois.readInt();
+
+			// TODO: Check for back button press
+
 			if(command != 12) {
 				throw new IOException("Unrecognized command");
 			}
@@ -238,6 +241,9 @@ public class MovieServer {
 				}
 
 				int cCommand = ois.readInt();
+
+				// TODO: Check for back button press
+
 				if(cCommand != 13) {
 					throw new IOException("Unrecognized Command");
 				}
