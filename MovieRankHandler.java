@@ -85,7 +85,7 @@ public class MovieRankHandler extends DefaultHandler {
 		} else if (TAG_MPAA.equalsIgnoreCase(tag)) { //MPAA
 			String mpaa = tempVal.toString().trim();
 			if(mpaa.equalsIgnoreCase(mMPAA)){
-				movie.addRank(0.6);
+				movie.addRank(1);
 			}
 			movie.setMPAA(mpaa);
 		} else if (TAG_GENRE.equalsIgnoreCase(tag)) { //Genres
@@ -101,7 +101,7 @@ public class MovieRankHandler extends DefaultHandler {
 			String director = tempVal.toString().trim();
 			for(String d : directors) {
 				if(director.equalsIgnoreCase(d)){
-					movie.addRank(1);
+					movie.addRank(1.25);
 				}
 			}
 			movie.addDirector(director);
@@ -109,7 +109,7 @@ public class MovieRankHandler extends DefaultHandler {
 			String actor = tempVal.toString().trim();
 			for(String a : actors) {
 				if(actor.equalsIgnoreCase(a)) {
-					movie.addRank(0.9);
+					movie.addRank(1);
 				}
 			}
 			movie.addActor(actor);

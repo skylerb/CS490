@@ -6,7 +6,7 @@
  * Name: Skyler Beckman
  * Course: CS490-WIR Fall 2012, Purdue University
  * Date: 10/31/2012
- * Last Update: 11/7/2012
+ * Last Update: 11/13/2012
  */
 
 
@@ -167,6 +167,7 @@ public class MovieServer {
 
 				boolean CHANGE = true;
 
+				//repeat until cluster centers remain stable
 				while(CHANGE) {
 					//Remove any previous movies from clusters
 					clearClusters(clusters);
