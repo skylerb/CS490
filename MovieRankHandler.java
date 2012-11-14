@@ -101,7 +101,7 @@ public class MovieRankHandler extends DefaultHandler {
 			String director = tempVal.toString().trim();
 			for(String d : directors) {
 				if(director.equalsIgnoreCase(d)){
-					movie.addRank(1.2);
+					movie.addRank(1);
 				}
 			}
 			movie.addDirector(director);
@@ -109,7 +109,7 @@ public class MovieRankHandler extends DefaultHandler {
 			String actor = tempVal.toString().trim();
 			for(String a : actors) {
 				if(actor.equalsIgnoreCase(a)) {
-					movie.addRank(1);
+					movie.addRank(0.9);
 				}
 			}
 			movie.addActor(actor);

@@ -48,7 +48,6 @@ public class MovieServer {
 				System.out.println("TCP S: Waiting for new connection...");
 				client = listener.accept();
 				System.out.println("TCP S: New connection received.");
-				System.out.println("TCP S: Currently " + numConns + " connections");
 				acceptThread connect = mserver.new acceptThread(client);
 				Thread t = new Thread(connect);
 				t.start();
@@ -85,29 +84,24 @@ public class MovieServer {
 				search(movieQuery, oos, ois);
 
 			} catch( IOException ie) {
-				ie.printStackTrace();
+				System.out.println(ie);
 			} catch(ClassNotFoundException cnfe) {
 				cnfe.printStackTrace();
+			} catch( SAXException se) {
+				se.printStackTrace();
+			} catch( ParserConfigurationException pce) {
+				pce.printStackTrace();
 			}
 		}
 	}
 
-	private void search(String title,ObjectOutputStream oos,ObjectInputStream ois) throws IOException,ClassNotFoundException {
+	private void search(String title,ObjectOutputStream oos,ObjectInputStream ois) throws IOException,ClassNotFoundException,SAXException,ParserConfigurationException {
 		// Search database for title
 		SAXParserFactory spf = SAXParserFactory.newInstance();
 		MovieHandler handler = new MovieHandler(title);
+		SAXParser sp = spf.newSAXParser();
 
-		try {
-			SAXParser sp = spf.newSAXParser();
-			sp.parse("Movies.xml", handler);
-			//System.out.println(handler.getMovies());
-		} catch( SAXException se ) {
-			se.printStackTrace();
-		} catch( ParserConfigurationException pce ) {
-			pce.printStackTrace();
-		} catch( IOException ie ) {
-			ie.printStackTrace();
-		}
+		sp.parse("Movies.xml", handler);
 
 		//Movie Not In Database
 		if(handler.getMovies().size() == 0) {
@@ -119,9 +113,9 @@ public class MovieServer {
 				ois.close();
 				oos.close();
 				numConns--;
+				throw new IOException("Movie Not Found");
 			}
 		} else {
-			//System.out.println(title + " found in database");
 			//Send message back to client that movie exists in database
 
 			synchronized(oos) {
@@ -135,16 +129,8 @@ public class MovieServer {
 
 			// Find Related Movies and Rank Them
 			MovieRankHandler rHandler = new MovieRankHandler(movie);
-			try {
-				SAXParser sp = spf.newSAXParser();
-				sp.parse("Movies.xml", rHandler);
-			} catch( SAXException se ) {
-				se.printStackTrace();
-			} catch( ParserConfigurationException pce ) {
-				pce.printStackTrace();
-			} catch( IOException ie ) {
-				ie.printStackTrace();
-			}
+
+			sp.parse("Movies.xml", rHandler);
 
 			//Ranked list of movies
 			List<Movie> movies = rHandler.getMovies();
@@ -153,10 +139,12 @@ public class MovieServer {
 			List<Attribute> usedAttributes = new ArrayList<Attribute>();
 
 			int command = ois.readInt();
-
-			// TODO: Check for back button press
-
-			if(command != 12) {
+			if (command == 11) {
+				ois.close();
+				oos.close();
+				numConns--;
+				throw new IOException("Client Quit");
+			} else if(command != 12) { //C_READY
 				throw new IOException("Unrecognized command");
 			}
 
@@ -243,8 +231,12 @@ public class MovieServer {
 				int cCommand = ois.readInt();
 
 				// TODO: Check for back button press
-
-				if(cCommand != 13) {
+				if(cCommand == 11) { //C_DISCONNECT
+					ois.close();
+					oos.close();
+					numConns--;
+					throw new IOException("Client Quit");
+				} else if(cCommand != 13) { //C_ANSWER_QUESTION
 					throw new IOException("Unrecognized Command");
 				}
 				int answerResult = ois.readInt();
@@ -287,6 +279,7 @@ public class MovieServer {
 				oos.writeInt(size);
 				oos.writeObject(bytes);
 				oos.flush();
+				fis.close();
 
 				int c = ois.readInt();
 				if(c != 14) {
