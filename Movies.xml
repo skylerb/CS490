@@ -4,6 +4,7 @@
 		<title>12 Angry Men</title>
 		<year>1957</year>
 		<mpaa>PG</mpaa>
+		<top250>1</top250>
 		<genre>Drama</genre>
 		<director>Sidney Lumet</director>
 		<actor>Henry Fonda</actor>
@@ -21,6 +22,7 @@
 		<title>Alien</title>
 		<year>1979</year>
 		<mpaa>TV-14</mpaa>
+		<top250>1</top250>
 		<genre>Horror</genre>
 		<genre>Sci-Fi</genre>
 		<director>Ridley Scott</director>
@@ -42,6 +44,7 @@
 		<title>American Psycho</title>
 		<year>2000</year>
 		<mpaa>NC-17</mpaa>
+		<top250>0</top250>
 		<genre>Crime</genre>
 		<genre>Drama</genre>
 		<director>Mary Harron</director>
@@ -60,6 +63,7 @@
 		<title>Argo</title>
 		<year>2012</year>
 		<mpaa>R</mpaa>
+		<top250>1</top250>
 		<genre>Drama</genre>
 		<genre>History</genre>
 		<genre>Thriller</genre>
@@ -79,6 +83,7 @@
 		<title>Dazed and Confused</title>
 		<year>1993</year>
 		<mpaa>R</mpaa>
+		<top250>0</top250>
 		<genre>Comedy</genre>
 		<genre>Drama</genre>
 		<director>Richard Linklater</director>
@@ -104,6 +109,7 @@
 		<title>Gladiator</title>
 		<year>2000</year>
 		<mpaa>R</mpaa>
+		<top250>1</top250>
 		<genre>Action</genre>
 		<genre>Drama</genre>
 		<genre>Adventure</genre>
@@ -122,6 +128,7 @@
 		<title>The Shawshank Redemption</title>
 		<year>1994</year>
 		<mpaa>R</mpaa>
+		<top250>1</top250>
 		<genre>Crime</genre>
 		<genre>Drama</genre>
 		<director>Frank Darabont</director>
@@ -140,6 +147,7 @@
 		<title>Wedding Crashers</title>
 		<year>2005</year>
 		<mpaa>R</mpaa>
+		<top250>0</top250>
 		<genre>Comedy</genre>
 		<genre>Romance</genre>
 		<director>David Dobkin</director>
@@ -166,6 +174,7 @@
 		<title>The Godfather</title>
 		<year>1972</year>
 		<mpaa>R</mpaa>
+		<top250>1</top250>
 		<genre>Crime</genre>
 		<genre>Drama</genre>
 		<director>Francis Ford Coppola</director>
@@ -185,6 +194,7 @@
 		<title>Pulp Fiction</title>
 		<year>1994</year>
 		<mpaa>R</mpaa>
+		<top250>1</top250>
 		<genre>Crime</genre>
 		<genre>Thriller</genre>
 		<director>Quentin Tarantino</director>
@@ -202,6 +212,7 @@
 		<title>The Good, the Bad and the Ugly</title>
 		<year>1966</year>
 		<mpaa>Approved</mpaa>
+		<top250>1</top250>
 		<genre>Adventure</genre>
 		<genre>Western</genre>
 		<director>Sergio Leone</director>
@@ -219,6 +230,7 @@
 		<title>Schindler's List</title>
 		<year>1993</year>
 		<mpaa>R</mpaa>
+		<top250>1</top250>
 		<genre>Biography</genre>
 		<genre>Drama</genre>
 		<genre>History</genre>
@@ -238,6 +250,7 @@
 		<title>The Dark Knight</title>
 		<year>2008</year>
 		<mpaa>PG-13</mpaa>
+		<top250>1</top250>		
 		<genre>Action</genre>
 		<genre>Crime</genre>
 		<genre>Drama</genre>
@@ -257,6 +270,7 @@
 		<title>The Lord of the Rings: The Return of the King</title>
 		<year>2003</year>
 		<mpaa>PG-13</mpaa>
+		<top250>1</top250>
 		<genre>Action</genre>
 		<genre>Adventure</genre>
 		<genre>Fantasy</genre>
@@ -277,6 +291,7 @@
 		<title>Fight Club</title>
 		<year>1999</year>
 		<mpaa>R</mpaa>
+		<top250>1</top250>
 		<genre>Drama</genre>
 		<director>David Fincher</director>
 		<actor>Brad Pitt</actor>
@@ -293,6 +308,7 @@
 		<title>Star Wars: Episode V - The Empire Strikes Back</title>
 		<year>1980</year>
 		<mpaa>PG</mpaa>
+		<top250>1</top250>
 		<genre>Action</genre>
 		<genre>Adventure</genre>
 		<genre>Sci-Fi</genre>
@@ -311,6 +327,7 @@
 		<title>One Flew Over the Cuckoo's Nest</title>
 		<year>1975</year>
 		<mpaa>R</mpaa>
+		<top250>1</top250>
 		<genre>Drama</genre>
 		<director>Milos Forman</director>
 		<actor>Jack Nicholson</actor>
@@ -327,6 +344,7 @@
 		<title>The Lord of the Rings: The Fellowship of the Ring</title>
 		<year>2001</year>
 		<mpaa>PG-13</mpaa>
+		<top250>1</top250>
 		<genre>Action</genre>
 		<genre>Adventure</genre>
 		<genre>Fantasy</genre>
@@ -345,6 +363,7 @@
 		<title>Inception</title>
 		<year>2010</year>
 		<mpaa>PG-13</mpaa>
+		<top250>1</top250>
 		<genre>Action</genre>
 		<genre>Adventure</genre>
 		<genre>Mystery</genre>
@@ -365,6 +384,7 @@
 		<title>Goodfellas</title>
 		<year>1990</year>
 		<mpaa>R</mpaa>
+		<top250>1</top250>
 		<genre>Biography</genre>
 		<genre>Crime</genre>
 		<genre>Drama</genre>
@@ -384,6 +404,7 @@
 		<title>Star Wars</title>
 		<year>1977</year>
 		<mpaa>PG</mpaa>
+		<top250>1</top250>
 		<genre>Action</genre>
 		<genre>Adventure</genre>
 		<genre>Fantasy</genre>
@@ -403,6 +424,7 @@
 		<title>The Godfather: Part II</title>
 		<year>1974</year>
 		<mpaa>R</mpaa>
+		<top250>1</top250>
 		<genre>Crime</genre>
 		<genre>Drama</genre>
 		<director>Francis Ford Coppola</director>
@@ -420,6 +442,7 @@
 		<title>Seven Samurai</title>
 		<year>1954</year>
 		<mpaa>UR</mpaa>
+		<top250>1</top250>
 		<genre>Action</genre>
 		<genre>Adventure</genre>
 		<genre>Drama</genre>
@@ -438,6 +461,7 @@
 		<title>Forrest Gump</title>
 		<year>1994</year>
 		<mpaa>PG-13</mpaa>
+		<top250>1</top250>
 		<genre>Drama</genre>
 		<genre>Romance</genre>
 		<director>Robert Zemeckis</director>
@@ -455,6 +479,7 @@
 		<title>The Lord of the Rings: The Two Towers</title>
 		<year>2002</year>
 		<mpaa>PG-13</mpaa>
+		<top250>1</top250>
 		<genre>Action</genre>
 		<genre>Adventure</genre>
 		<genre>Fantasy</genre>
@@ -473,6 +498,7 @@
 		<title>Once Upon a Time in the West</title>
 		<year>1968</year>
 		<mpaa>PG-13</mpaa>
+		<top250>1</top250>
 		<genre>Adventure</genre>
 		<genre>Western</genre>
 		<director>Sergio Leone</director>
@@ -489,6 +515,7 @@
 		<title>City of God</title>
 		<year>2002</year>
 		<mpaa>R</mpaa>
+		<top250>1</top250>
 		<genre>Crime</genre>
 		<genre>Drama</genre>
 		<director>Fernando Meirelles</director>
@@ -507,6 +534,7 @@
 		<title>The Matrix</title>
 		<year>1999</year>
 		<mpaa>R</mpaa>
+		<top250>1</top250>
 		<genre>Action</genre>
 		<genre>Adventure</genre>
 		<genre>Sci-Fi</genre>
@@ -526,6 +554,7 @@
 		<title>Se7en</title>
 		<year>1995</year>
 		<mpaa>R</mpaa>
+		<top250>1</top250>
 		<genre>Crime</genre>
 		<genre>Mystery</genre>
 		<genre>Thriller</genre>
@@ -544,6 +573,7 @@
 		<title>The Silence of the Lambs</title>
 		<year>1991</year>
 		<mpaa>R</mpaa>
+		<top250>1</top250>
 		<genre>Thriller</genre>
 		<director>Johnathon Demme</director>
 		<actor>Jodie Foster</actor>
@@ -560,6 +590,7 @@
 		<title>Casablanca</title>
 		<year>1942</year>
 		<mpaa>PG</mpaa>
+		<top250>1</top250>
 		<genre>Drama</genre>
 		<genre>Romance</genre>
 		<genre>War</genre>
@@ -578,6 +609,7 @@
 		<title>Raiders of the Lost Ark</title>
 		<year>1981</year>
 		<mpaa>PG</mpaa>
+		<top250>1</top250>
 		<genre>Action</genre>
 		<genre>Adventure</genre>
 		<director>Steven Spielberg</director>
@@ -595,6 +627,7 @@
 		<title>The Usual Suspects</title>
 		<year>1995</year>
 		<mpaa>R</mpaa>
+		<top250>1</top250>
 		<genre>Crime</genre>
 		<genre>Drama</genre>
 		<genre>Mystery</genre>
@@ -614,6 +647,7 @@
 		<title>Rear Window</title>
 		<year>1954</year>
 		<mpaa>PG</mpaa>
+		<top250>1</top250>
 		<genre>Mystery</genre>
 		<genre>Thriller</genre>
 		<director>Alfred Hitchcock</director>
@@ -631,6 +665,7 @@
 		<title>The Dark Knight Rises</title>
 		<year>2012</year>
 		<mpaa>PG-13</mpaa>
+		<top250>1</top250>
 		<genre>Action</genre>
 		<genre>Crime</genre>
 		<genre>Drama</genre>
@@ -650,6 +685,7 @@
 		<title>Psycho</title>
 		<year>1960</year>
 		<mpaa>TV-14</mpaa>
+		<top250>1</top250>
 		<genre>Horror</genre>
 		<genre>Mystery</genre>
 		<genre>Thriller</genre>
@@ -668,6 +704,7 @@
 		<title>It's a Wonderful Life</title>
 		<year>1946</year>
 		<mpaa>UR</mpaa>
+		<top250>1</top250>
 		<genre>Drama</genre>
 		<genre>Fantasy</genre>
 		<director>Frank Capra</director>
@@ -685,6 +722,7 @@
 		<title>Memento</title>
 		<year>2000</year>
 		<mpaa>R</mpaa>
+		<top250>1</top250>
 		<genre>Mystery</genre>
 		<genre>Thriller</genre>
 		<director>Christopher Nolan</director>
@@ -702,6 +740,7 @@
 		<title>American History X</title>
 		<year>1998</year>
 		<mpaa>R</mpaa>
+		<top250>1</top250>
 		<genre>Crime</genre>
 		<genre>Drama</genre>
 		<director>Tony Kaye</director>
@@ -719,6 +758,7 @@
 		<title>Apocalypse Now</title>
 		<year>1979</year>
 		<mpaa>R</mpaa>
+		<top250>1</top250>
 		<genre>Drama</genre>
 		<genre>War</genre>
 		<director>Francis Ford Coppola</director>
@@ -736,6 +776,7 @@
 		<title>Robin Hood</title>
 		<year>2010</year>
 		<mpaa>PG-13</mpaa>
+		<top250>0</top250>
 		<genre>Action</genre>
 		<genre>Adventure</genre>
 		<genre>Drama</genre>
@@ -754,6 +795,7 @@
 		<title>Apocalypto</title>
 		<year>2006</year>
 		<mpaa>R</mpaa>
+		<top250>0</top250>
 		<genre>Action</genre>
 		<genre>Adventure</genre>
 		<genre>Drama</genre>
@@ -772,6 +814,7 @@
 		<title>Master and Commander: The Far Side of the World</title>
 		<year>2003</year>
 		<mpaa>PG-13</mpaa>
+		<top250>0</top250>
 		<genre>Action</genre>
 		<genre>Adventure</genre>
 		<genre>Drama</genre>
@@ -791,6 +834,7 @@
 		<title>Hidalgo</title>
 		<year>2004</year>
 		<mpaa>PG-13</mpaa>
+		<top250>0</top250>
 		<genre>Action</genre>
 		<genre>Adventure</genre>
 		<genre>Western</genre>
@@ -809,6 +853,7 @@
 		<title>The Guardian</title>
 		<year>2006</year>
 		<mpaa>PG-13</mpaa>
+		<top250>0</top250>
 		<genre>Action</genre>
 		<genre>Adventure</genre>
 		<genre>Drama</genre>
@@ -827,6 +872,7 @@
 		<title>American Beauty</title>
 		<year>1999</year>
 		<mpaa>R</mpaa>
+		<top250>1</top250>
 		<genre>Drama</genre>
 		<director>Sam Mendes</director>
 		<actor>Kevin Spacey</actor>
@@ -843,6 +889,7 @@
 		<title>Saving Private Ryan</title>
 		<year>1998</year>
 		<mpaa>R</mpaa>
+		<top250>1</top250>
 		<genre>Action</genre>
 		<genre>Drama</genre>
 		<genre>War</genre>
@@ -862,6 +909,7 @@
 		<title>The Departed</title>
 		<year>2006</year>
 		<mpaa>R</mpaa>
+		<top250>1</top250>
 		<genre>Crime</genre>
 		<genre>Drama</genre>
 		<genre>Thriller</genre>
@@ -881,6 +929,7 @@
 		<title>Walk the Line</title>
 		<year>2005</year>
 		<mpaa>PG-13</mpaa>
+		<top250>0</top250>
 		<genre>Biography</genre>
 		<genre>Drama</genre>
 		<genre>Music</genre>
@@ -900,6 +949,7 @@
 		<title>The English Patient</title>
 		<year>1996</year>
 		<mpaa>R</mpaa>
+		<top250>0</top250>
 		<genre>Drama</genre>
 		<genre>Romance</genre>
 		<genre>War</genre>
@@ -918,6 +968,7 @@
 		<title>Big Fish</title>
 		<year>2003</year>
 		<mpaa>PG-13</mpaa>
+		<top250>1</top250>
 		<genre>Adventure</genre>
 		<genre>Drama</genre>
 		<genre>Fantasy</genre>
@@ -937,6 +988,7 @@
 		<title>Titanic</title>
 		<year>1997</year>
 		<mpaa>PG-13</mpaa>
+		<top250>0</top250>
 		<genre>Drama</genre>
 		<genre>Romance</genre>
 		<director>James Cameron</director>
@@ -954,6 +1006,7 @@
 		<title>Finding Nemo</title>
 		<year>2003</year>
 		<mpaa>G</mpaa>
+		<top250>1</top250>
 		<genre>Animation</genre>
 		<genre>Adventure</genre>
 		<genre>Comedy</genre>
@@ -974,6 +1027,7 @@
 		<title>Slumdog Millionaire</title>
 		<year>2008</year>
 		<mpaa>R</mpaa>
+		<top250>1</top250>
 		<genre>Drama</genre>
 		<genre>Romance</genre>
 		<genre>Thriller</genre>
@@ -993,6 +1047,7 @@
 		<title>Terminator 2: Judgment Day</title>
 		<year>1991</year>
 		<mpaa>R</mpaa>
+		<top250>1</top250>
 		<genre>Action</genre>
 		<genre>Sci-Fi</genre>
 		<genre>Thriller</genre>
@@ -1011,6 +1066,7 @@
 		<title>North by Northwest</title>
 		<year>1959</year>
 		<mpaa>NR</mpaa>
+		<top250>1</top250>
 		<genre>Adventure</genre>
 		<genre>Crime</genre>
 		<genre>Mystery</genre>
@@ -1031,6 +1087,7 @@
 		<title>Spirited Away</title>
 		<year>2001</year>
 		<mpaa>PG</mpaa>
+		<top250>1</top250>
 		<genre>Animation</genre>
 		<genre>Adventure</genre>
 		<genre>Family</genre>
@@ -1050,6 +1107,7 @@
 		<title>The Shining</title>
 		<year>1980</year>
 		<mpaa>R</mpaa>
+		<top250>1</top250>
 		<genre>Horror</genre>
 		<genre>Mystery</genre>
 		<director>Stanley Kubrick</director>
@@ -1067,6 +1125,7 @@
 		<title>Back to the Future</title>
 		<year>1985</year>
 		<mpaa>PG</mpaa>
+		<top250>1</top250>
 		<genre>Adventure</genre>
 		<genre>Comedy</genre>
 		<genre>Sci-Fi</genre>
@@ -1085,6 +1144,7 @@
 		<title>Back to the Future Part II</title>
 		<year>1989</year>
 		<mpaa>PG</mpaa>
+		<top250>0</top250>
 		<genre>Adventure</genre>
 		<genre>Comedy</genre>
 		<genre>Sci-Fi</genre>
@@ -1103,6 +1163,7 @@
 		<title>Jurassic Park</title>
 		<year>1993</year>
 		<mpaa>PG-13</mpaa>
+		<top250>1</top250>
 		<genre>Adventure</genre>
 		<genre>Family</genre>
 		<genre>Sci-Fi</genre>
@@ -1122,6 +1183,7 @@
 		<title>The Pianist</title>
 		<year>2002</year>
 		<mpaa>R</mpaa>
+		<top250>1</top250>
 		<genre>Biography</genre>
 		<genre>Drama</genre>
 		<genre>War</genre>
@@ -1140,6 +1202,7 @@
 		<title>Toy Story 3</title>
 		<year>2010</year>
 		<mpaa>G</mpaa>
+		<top250>1</top250>
 		<genre>Animation</genre>
 		<genre>Adventure</genre>
 		<genre>Comedy</genre>
@@ -1160,6 +1223,7 @@
 		<title>Life Is Beautiful</title>
 		<year>1997</year>
 		<mpaa>PG-13</mpaa>
+		<top250>1</top250>
 		<genre>Comedy</genre>
 		<genre>Drama</genre>
 		<genre>Romance</genre>
@@ -1179,6 +1243,7 @@
 		<title>WALL-E</title>
 		<year>2008</year>
 		<mpaa>G</mpaa>
+		<top250>1</top250>
 		<genre>Animation</genre>
 		<genre>Adventure</genre>
 		<genre>Family</genre>
@@ -1199,6 +1264,7 @@
 		<title>The Lives of Others</title>
 		<year>2006</year>
 		<mpaa>R</mpaa>
+		<top250>1</top250>
 		<genre>Drama</genre>
 		<genre>Thriller</genre>
 		<director>Florian Henckel von Donnersmarck</director>
@@ -1216,6 +1282,7 @@
 		<title>A Clockwork Orange</title>
 		<year>1971</year>
 		<mpaa>R</mpaa>
+		<top250>1</top250>
 		<genre>Crime</genre>
 		<genre>Drama</genre>
 		<genre>Sci-Fi</genre>
@@ -1234,6 +1301,7 @@
 		<title>The Green Mile</title>
 		<year>1999</year>
 		<mpaa>R</mpaa>
+		<top250>1</top250>
 		<genre>Crime</genre>
 		<genre>Drama</genre>
 		<genre>Fantasy</genre>
@@ -1253,6 +1321,7 @@
 		<title>The Prestige</title>
 		<year>2006</year>
 		<mpaa>PG-13</mpaa>
+		<top250>1</top250>
 		<genre>Drama</genre>
 		<genre>Mystery</genre>
 		<genre>Thriller</genre>
@@ -1271,6 +1340,7 @@
 		<title>Prometheus</title>
 		<year>2012</year>
 		<mpaa>R</mpaa>
+		<top250>0</top250>
 		<genre>Adventure</genre>
 		<genre>Mystery</genre>
 		<genre>Sci-Fi</genre>
@@ -1289,6 +1359,7 @@
 		<title>X-Men: First Class</title>
 		<year>2011</year>
 		<mpaa>PG-13</mpaa>
+		<top250>0</top250>
 		<genre>Action</genre>
 		<genre>Adventure</genre>
 		<genre>Sci-Fi</genre>
@@ -1308,6 +1379,7 @@
 		<title>Blade Runner</title>
 		<year>1982</year>
 		<mpaa>R</mpaa>
+		<top250>1</top250>
 		<genre>Drama</genre>
 		<genre>Sci-Fi</genre>
 		<genre>Thriller</genre>
@@ -1326,6 +1398,7 @@
 		<title>Avatar</title>
 		<year>2009</year>
 		<mpaa>PG-13</mpaa>
+		<top250>0</top250>
 		<genre>Action</genre>
 		<genre>Adventure</genre>
 		<genre>Fantasy</genre>
@@ -1345,6 +1418,7 @@
 		<title>Real Steel</title>
 		<year>2011</year>
 		<mpaa>PG-13</mpaa>
+		<top250>0</top250>
 		<genre>Drama</genre>
 		<genre>Sci-Fi</genre>
 		<genre>Sport</genre>
@@ -1363,6 +1437,7 @@
 		<title>The Lost World: Jurassic Park</title>
 		<year>1997</year>
 		<mpaa>PG-13</mpaa>
+		<top250>0</top250>
 		<genre>Adventure</genre>
 		<genre>Sci-Fi</genre>
 		<genre>Thriller</genre>
@@ -1381,6 +1456,7 @@
 		<title>To Kill a Mockingbird</title>
 		<year>1962</year>
 		<mpaa>NR</mpaa>
+		<top250>1</top250>
 		<genre>Crime</genre>
 		<genre>Drama</genre>
 		<genre>Mystery</genre>
@@ -1399,6 +1475,7 @@
 		<title>The Machinist</title>
 		<year>2004</year>
 		<mpaa>R</mpaa>
+		<top250>0</top250>
 		<genre>Drama</genre>
 		<genre>Thriller</genre>
 		<director>Brad Anderson</director>
@@ -1416,6 +1493,7 @@
 		<title>28 Days Later</title>
 		<year>2002</year>
 		<mpaa>R</mpaa>
+		<top250>0</top250>
 		<genre>Horror</genre>
 		<genre>Sci-Fi</genre>
 		<genre>Thriller</genre>
@@ -1434,6 +1512,7 @@
 		<title>The Terminal</title>
 		<year>2004</year>
 		<mpaa>PG-13</mpaa>
+		<top250>0</top250>
 		<genre>Comedy</genre>
 		<genre>Drama</genre>
 		<director>Steven Spielberg</director>
@@ -1451,6 +1530,7 @@
 		<title>Knocked Up</title>
 		<year>2007</year>
 		<mpaa>R</mpaa>
+		<top250>0</top250>
 		<genre>Comedy</genre>
 		<genre>Drama</genre>
 		<genre>Romance</genre>
@@ -1469,6 +1549,7 @@
 		<title>Yes Man</title>
 		<year>2008</year>
 		<mpaa>PG-13</mpaa>
+		<top250>0</top250>
 		<genre>Comedy</genre>
 		<genre>Romance</genre>
 		<director>Peyton Reed</director>
@@ -1486,6 +1567,7 @@
 		<title>The 40 Year Old Virgin</title>
 		<year>2005</year>
 		<mpaa>R</mpaa>
+		<top250>0</top250>
 		<genre>Comedy</genre>
 		<genre>Romance</genre>
 		<director>Judd Apatow</director>
@@ -1504,6 +1586,7 @@
 		<title>I Love You, Man</title>
 		<year>2009</year>
 		<mpaa>R</mpaa>
+		<top250>0</top250>
 		<genre>Comedy</genre>
 		<genre>Romance</genre>
 		<director>John Hamburg</director>
@@ -1521,6 +1604,7 @@
 		<title>Up in the Air</title>
 		<year>2009</year>
 		<mpaa>R</mpaa>
+		<top250>0</top250>
 		<genre>Drama</genre>
 		<genre>Romance</genre>
 		<director>Jason Reitman</director>
@@ -1538,6 +1622,7 @@
 		<title>Pay It Forward</title>
 		<year>2000</year>
 		<mpaa>PG-13</mpaa>
+		<top250>0</top250>
 		<genre>Drama</genre>
 		<director>Mimi Leder</director>
 		<actor>Kevin Spacey</actor>

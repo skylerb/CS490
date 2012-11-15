@@ -18,6 +18,7 @@ public class MovieRankHandler extends DefaultHandler {
 	private static final String TAG_ACTOR = "actor";
 	private static final String TAG_KEYWORD = "keyword";
 	private static final String TAG_COVERART = "coverart";
+	private static final String TAG_TOP250 = "top250";
 
 	private final Stack<String> tagsStack = new Stack<String>();
 	private final StringBuilder tempVal = new StringBuilder();
@@ -78,16 +79,21 @@ public class MovieRankHandler extends DefaultHandler {
 			int year = Integer.valueOf(tempVal.toString().trim());
 			movie.setYear(year);
 			if((year/10) == (mYear/10)) {
-				movie.addRank(0.75);
+				movie.addRank(1);
 			} else {
 				SAME_MOVIE = false;
 			}
 		} else if (TAG_MPAA.equalsIgnoreCase(tag)) { //MPAA
 			String mpaa = tempVal.toString().trim();
 			if(mpaa.equalsIgnoreCase(mMPAA)){
-				movie.addRank(0.8);
+				movie.addRank(1);
 			}
 			movie.setMPAA(mpaa);
+		} else if(TAG_TOP250.equalsIgnoreCase(tag)) { //Top250
+			int top250 = Integer.valueOf(tempVal.toString().trim());
+			if(top250 == 1) {
+				movie.addRank(0.5);
+			}
 		} else if (TAG_GENRE.equalsIgnoreCase(tag)) { //Genres
 			String genre = tempVal.toString().trim();
 			for(String g : genres) {
@@ -101,7 +107,7 @@ public class MovieRankHandler extends DefaultHandler {
 			String director = tempVal.toString().trim();
 			for(String d : directors) {
 				if(director.equalsIgnoreCase(d)){
-					movie.addRank(1);
+					movie.addRank(1.5);
 				}
 			}
 			movie.addDirector(director);
@@ -109,7 +115,7 @@ public class MovieRankHandler extends DefaultHandler {
 			String actor = tempVal.toString().trim();
 			for(String a : actors) {
 				if(actor.equalsIgnoreCase(a)) {
-					movie.addRank(0.9);
+					movie.addRank(1.25);
 				}
 			}
 			movie.addActor(actor);
@@ -117,7 +123,7 @@ public class MovieRankHandler extends DefaultHandler {
 			String keyword = tempVal.toString().trim();
 			for(String k : keywords) {
 				if(keyword.equalsIgnoreCase(k)) {
-					movie.addRank(1);
+					movie.addRank(1.25);
 				}
 			}
 			movie.addKeyword(keyword);

@@ -269,6 +269,8 @@ public class MovieServer {
 				}
 				oos.writeInt(rating);
 				oos.writeObject(movies.get(i).getGenres());
+				oos.writeObject(movies.get(i).getActors());
+				oos.writeObject(movies.get(i).getDirectors());
 				//Sending coverart
 				File imgPath = new File(movies.get(i).getCoverArt());
 				FileInputStream fis = null;
