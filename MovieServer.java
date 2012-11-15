@@ -502,7 +502,7 @@ public class MovieServer {
 			}
 		}
 		//Compare Ranks (May need revision)
-		distance-=(Math.max(m.getRank(),medoid.getRank())-Math.abs(m.getRank()-medoid.getRank()))/2;
+		distance-=(Math.max(m.getRank(),medoid.getRank())-Math.abs(m.getRank()-medoid.getRank()))/(Math.max(m.getRank(),medoid.getRank())/5);
 
 		return distance;
 	}
