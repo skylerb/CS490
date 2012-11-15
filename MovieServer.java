@@ -153,8 +153,11 @@ public class MovieServer {
 				//Sort movie list based on rank for clustering purposes
 				Collections.sort(movies);
 
+				//Number of clusters
+				int KMEDOIDS = 5;
+
 				//Generate the intial clusters
-				Cluster[] clusters = initClusters(5, movies);
+				Cluster[] clusters = initClusters(KMEDOIDS, movies);
 
 				boolean CHANGE = true;
 
@@ -230,7 +233,6 @@ public class MovieServer {
 
 				int cCommand = ois.readInt();
 
-				// TODO: Check for back button press
 				if(cCommand == 11) { //C_DISCONNECT
 					ois.close();
 					oos.close();
@@ -464,7 +466,7 @@ public class MovieServer {
 		double distance = 0.0;
 
 		//Compare Years
-		distance -= (6-Math.abs(((m.getYear()/10)-(medoid.getYear()/10)))) / 2;
+		distance -= (7-Math.abs(((m.getYear()/10)-(medoid.getYear()/10)))) / 3.5;
 		//Compare Ratings
 		if(m.getMPAA().equalsIgnoreCase(medoid.getMPAA())) {
 			distance -= 1;
@@ -497,7 +499,7 @@ public class MovieServer {
 		for(String k : m.getKeywords()) {
 			for(String dK : medoid.getKeywords()) {
 				if(k.equalsIgnoreCase(dK)) {
-					distance -= 1;
+					distance -= 2;
 				}
 			}
 		}

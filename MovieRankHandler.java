@@ -123,7 +123,7 @@ public class MovieRankHandler extends DefaultHandler {
 			String keyword = tempVal.toString().trim();
 			for(String k : keywords) {
 				if(keyword.equalsIgnoreCase(k)) {
-					movie.addRank(1.25);
+					movie.addRank(1.75);
 				}
 			}
 			movie.addKeyword(keyword);
