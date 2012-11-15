@@ -244,14 +244,13 @@ public class MovieServer {
 				updateClusterRanks(clusters[cIndex], topAttr, answerResult);
 			}
 
-			//Finished with K-Medoid Algorithm. Notify User
+			//Finished with K-Medoid Algorithm. Notify User?
 
 			//Sorting the movies one last time to guarantee ranked properly
 			Collections.sort(movies);
 
 			for(int i = 0; i < 5 && i < movies.size(); i++) {
 				oos.writeInt(22); //S_MOVIE_SEND
-				//System.out.println(movies.get(i).getTitle());
 				oos.writeObject(movies.get(i).getTitle());
 				oos.writeInt(movies.get(i).getYear());
 				int rating = 8;
@@ -280,6 +279,7 @@ public class MovieServer {
 				int read = fis.read(bytes);
 				oos.writeInt(size);
 				oos.writeObject(bytes);
+
 				oos.flush();
 				fis.close();
 
