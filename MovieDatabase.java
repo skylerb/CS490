@@ -15,34 +15,33 @@ import org.xml.sax.helpers.DefaultHandler;
 public class MovieDatabase extends DefaultHandler{
 
 	List<Movie> movies;
-	
+
 	private String tempVal;
-	
+
 	//to maintain context
 	private Movie tempMovie;
-	
-	
+
 	public MovieDatabase(){
 		movies = new ArrayList<Movie>();
 	}
-	
+
 	public void runExample() {
 		parseDocument();
 		printData();
 	}
 
 	private void parseDocument() {
-		
+
 		//get a factory
 		SAXParserFactory spf = SAXParserFactory.newInstance();
 		try {
-		
+
 			//get a new instance of parser
 			SAXParser sp = spf.newSAXParser();
-			
+
 			//parse the file and also register this class for call backs
 			sp.parse("Movies.xml", this);
-			
+
 		}catch(SAXException se) {
 			se.printStackTrace();
 		}catch(ParserConfigurationException pce) {
@@ -57,14 +56,8 @@ public class MovieDatabase extends DefaultHandler{
 	 * the contents
 	 */
 	private void printData(){
-		
 		System.out.println("No of Movies '" + movies.size() + "'.");
-		
-		for(Movie m : movies) {
-			System.out.println(m.getTitle());
-		}
 	}
-	
 
 	//Event Handlers
 	public void startElement(String uri, String localName, String qName, Attributes attributes) throws SAXException {
@@ -75,7 +68,6 @@ public class MovieDatabase extends DefaultHandler{
 			tempMovie = new Movie();
 		}
 	}
-	
 
 	public void characters(char[] ch, int start, int length) throws SAXException {
 		tempVal = new String(ch,start,length);

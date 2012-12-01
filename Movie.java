@@ -13,6 +13,7 @@ public class Movie implements Comparable<Movie> {
 	private double rank;
 	private double distance;
 	private String coverArt;
+	private String fanArt;
 
 	public Movie() {
 		this.rank = 0.0;
@@ -81,6 +82,14 @@ public class Movie implements Comparable<Movie> {
 
 	public String getCoverArt() {
 		return coverArt;
+	}
+
+	public void setFanArt(String fanArt) {
+		this.fanArt = fanArt;
+	}
+
+	public String getFanArt() {
+		return fanArt;
 	}
 
 	public String toString() {

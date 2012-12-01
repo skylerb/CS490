@@ -273,17 +273,21 @@ public class MovieServer {
 				oos.writeObject(movies.get(i).getActors());
 				oos.writeObject(movies.get(i).getDirectors());
 				//Sending coverart
-				File imgPath = new File(movies.get(i).getCoverArt());
-				FileInputStream fis = null;
-				int size = (int)imgPath.length();
-				byte[] bytes = new byte[size];
-				fis = new FileInputStream(imgPath);
-				int read = fis.read(bytes);
-				oos.writeInt(size);
-				oos.writeObject(bytes);
+				oos.writeObject(movies.get(i).getCoverArt());
+				//oos.writeObject(movies.get(i).getFanart());
+
+
+				//File imgPath = new File(movies.get(i).getCoverArt());
+				//FileInputStream fis = null;
+				//int size = (int)imgPath.length();
+				//byte[] bytes = new byte[size];
+				//fis = new FileInputStream(imgPath);
+				//int read = fis.read(bytes);
+				//oos.writeInt(size);
+				//oos.writeObject(bytes);
 
 				oos.flush();
-				fis.close();
+				//fis.close();
 
 				int c = ois.readInt();
 				if(c != 14) {
