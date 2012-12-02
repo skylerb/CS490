@@ -272,9 +272,8 @@ public class MovieServer {
 				oos.writeObject(movies.get(i).getGenres());
 				oos.writeObject(movies.get(i).getActors());
 				oos.writeObject(movies.get(i).getDirectors());
-				//Sending coverart
 				oos.writeObject(movies.get(i).getCoverArt());
-				//oos.writeObject(movies.get(i).getFanart());
+				oos.writeObject(movies.get(i).getFanArt());
 
 
 				//File imgPath = new File(movies.get(i).getCoverArt());

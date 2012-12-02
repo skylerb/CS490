@@ -18,6 +18,7 @@ public class MovieRankHandler extends DefaultHandler {
 	private static final String TAG_ACTOR = "actor";
 	private static final String TAG_KEYWORD = "keyword";
 	private static final String TAG_COVERART = "coverart";
+	private static final String TAG_FANART = "fanart";
 	private static final String TAG_TOP250 = "top250";
 
 	private final Stack<String> tagsStack = new Stack<String>();
@@ -130,6 +131,9 @@ public class MovieRankHandler extends DefaultHandler {
 		} else if (TAG_COVERART.equalsIgnoreCase(tag)) {
 			String coverArt = tempVal.toString().trim();
 			movie.setCoverArt(coverArt);
+		} else if (TAG_FANART.equalsIgnoreCase(tag)) {
+			String fanArt = tempVal.toString().trim();
+			movie.setFanArt(fanArt);
 		} else if (TAG_MOVIE.equalsIgnoreCase(tag)) { //Add Movie
 			if(ADD_FLAG && !SAME_MOVIE) {
 				movies.add(movie);
