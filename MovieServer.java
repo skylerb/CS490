@@ -231,16 +231,20 @@ public class MovieServer {
 					oos.flush();
 				}
 
-				int cCommand = ois.readInt();
-
-				if(cCommand == 11) { //C_DISCONNECT
-					ois.close();
-					oos.close();
-					numConns--;
-					throw new IOException("Client Quit");
-				} else if(cCommand != 13) { //C_ANSWER_QUESTION
-					throw new IOException("Unrecognized Command");
+				int cCommand;
+				while((cCommand = ois.readInt()) != 13) { //C_ANSWER_QUESTION
+					if(cCommand == 11) { //C_DISCONNECT
+						ois.close();
+						oos.close();
+						numConns--;
+						throw new IOException("Client Quit");
+					} else {
+						// Unrecognized Command
+					}
 				}
+				//} else if(cCommand != 13) { //C_ANSWER_QUESTION
+				//	throw new IOException("Unrecognized Command");
+				//}
 				int answerResult = ois.readInt();
 
 				updateClusterRanks(clusters[cIndex], topAttr, answerResult);
@@ -274,23 +278,13 @@ public class MovieServer {
 				oos.writeObject(movies.get(i).getDirectors());
 				oos.writeObject(movies.get(i).getCoverArt());
 				oos.writeObject(movies.get(i).getFanArt());
-
-
-				//File imgPath = new File(movies.get(i).getCoverArt());
-				//FileInputStream fis = null;
-				//int size = (int)imgPath.length();
-				//byte[] bytes = new byte[size];
-				//fis = new FileInputStream(imgPath);
-				//int read = fis.read(bytes);
-				//oos.writeInt(size);
-				//oos.writeObject(bytes);
-
 				oos.flush();
-				//fis.close();
 
-				int c = ois.readInt();
-				if(c != 14) {
-					throw new IOException("Unrecognized Command");
+				int c;
+				while((c = ois.readInt()) != 14) {
+					// Unrecognized Command
+					// Probably button smashing
+					// TODO??
 				}
 			}
 

@@ -1840,7 +1840,7 @@
 		<fanart>http://cf2.imgobject.com/t/p/original/cYWI1lnHEvoVKDdlrRt2b5et3Bj.jpg</fanart>
 	</movie>
 	<movie>
-		<title>1987</title>
+		<title>Spaceballs</title>
 		<year>1987</year>
 		<mpaa>PG</mpaa>
 		<top250>0</top250>
@@ -1858,5 +1858,49 @@
 		<keyword>Alien</keyword>
 		<coverart>http://cf2.imgobject.com/t/p/w185/Adb7sxRWd7mo6ELgUXyRTHorBuS.jpg</coverart>
 		<fanart>http://cf2.imgobject.com/t/p/original/mMblxwsvvJ9wu8CVXVVjX4MBuN2.jpg</fanart>
+	</movie>
+	<movie>
+		<title>Despicable Me</title>
+		<year>2010</year>
+		<mpaa>PG</mpaa>
+		<top250>0</top250>
+		<genre>Animation</genre>
+		<genre>Comedy</genre>
+		<genre>Crime</genre>
+		<genre>Family</genre>
+		<director>Pierre Coffin</director>
+		<director>Chris Renaud</director>
+		<actor>Steve Carell</actor>
+		<actor>Jason Segel</actor>
+		<actor>Russell Brand</actor>
+		<keyword>Minion</keyword>
+		<keyword>Moon</keyword>
+		<keyword>Criminal Mastermind</keyword>
+		<keyword>Girl</keyword>
+		<keyword>Little Girl</keyword>
+		<coverart>http://cf2.imgobject.com/t/p/w185/4zHJhBSY4kNZXfhTlmy2TzXD51M.jpg</coverart>
+		<fanart>http://cf2.imgobject.com/t/p/original/m2wMCftBAAJ02OIpoBeBkXOhFpp.jpg</fanart>
+	</movie>
+	<movie>
+		<title>Shrek</title>
+		<year>2001</year>
+		<mpaa>PG</mpaa>
+		<top250>0</top250>
+		<genre>Animation</genre>
+		<genre>Adventure</genre>
+		<genre>Comedy</genre>
+		<genre>Family</genre>
+		<director>Andrew Adamson</director>
+		<director>Vicky Jenson</director>
+		<actor>Mike Myers</actor>
+		<actor>Eddie Murphy</actor>
+		<actor>Cameron Diaz</actor>
+		<keyword>Shrek</keyword>
+		<keyword>Lord</keyword>
+		<keyword>Ogre</keyword>
+		<keyword>Fairy Tale</keyword>
+		<keyword>Donkey</keyword>
+		<coverart>http://cf2.imgobject.com/t/p/w185/140ewbWv8qHStD3mlBDvvGd0Zvu.jpg</coverart>
+		<fanart>http://cf2.imgobject.com/t/p/original/wBG4kHfhwm3bLwKUFNRByXXv4r2.jpg</fanart>
 	</movie>
 </movies>
